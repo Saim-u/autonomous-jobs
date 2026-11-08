@@ -1,6 +1,6 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
+<!-- Personalized for Saim Saeed: remote full-stack / frontend / backend roles. -->
 
 ## Installed portal CLIs (primary for `/scrape`)
 
@@ -12,14 +12,14 @@ The `site:` query templates in this file are the **WebSearch fallback** — for 
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary (remote-first market):
+- **linkedin.com/jobs** - LinkedIn job listings; also covered by `linkedin-search` CLI. Use `--location "Remote"` + `--remote remote`, plus `--location "Pakistan"` for Lahore-based remote-friendly employers
+- **freehire.me** - remote-friendly tech aggregator; covered by `freehire-search` CLI
+- **Wellfound** (wellfound.com) - startup roles, many remote (WebSearch fallback)
+- **We Work Remotely** (weworkremotely.com) - remote-only board (WebSearch fallback)
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+- Direct Google searches with `site:` filters for target remote-first companies (SaaS, fintech, developer tools, e-commerce, AI-enabled products)
 
 ## Query Categories
 
@@ -27,54 +27,74 @@ Queries are grouped by priority. Write **each category in every language from yo
 
 **Organize by function, not job title.** The same underlying work carries different titles across companies and markets (a "Data Scientist" role at one employer may be posted as "Insights Analyst" or "Data Consultant" at another). Name each priority category after the function it covers, and list several plausible job titles as query variants within that category rather than betting an entire priority tier on one exact title string.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Full-stack product engineering (primary direction)
 
-These match your strongest and most desired career direction.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_2]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_COUNTRY]
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+These match your strongest and most desired career direction: TypeScript/React/Next.js plus Python/FastAPI, owning features end to end.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "full stack developer" remote
+site:linkedin.com/jobs "full stack engineer" remote
+site:linkedin.com/jobs "full-stack software engineer" remote
+site:linkedin.com/jobs "Next.js developer" remote
+site:linkedin.com/jobs "TypeScript" "React" "Python" remote
+site:freehire.me "full stack" remote
+site:weworkremotely.com "full stack" developer
+site:linkedin.com/jobs "فل اسٹیک ڈویلپر" ریموٹ
+site:rozee.pk "فل اسٹیک ڈویلپر" لاہور
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 2: Frontend engineering
 
-Adjacent roles you could pivot into.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+React/Next.js roles with performance and state-management depth.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "frontend engineer" remote
+site:linkedin.com/jobs "frontend developer" "React" remote
+site:linkedin.com/jobs "React developer" remote
+site:linkedin.com/jobs "Next.js engineer" remote
+site:freehire.me "frontend" React remote
+site:wellfound.com "frontend engineer" remote
+site:linkedin.com/jobs "فرنٹ اینڈ ڈویلپر" ریموٹ
+site:rozee.pk "فرنٹ اینڈ ڈویلپر" لاہور
+```
+
+### Priority 3: Backend / platform engineering
+
+Python/FastAPI and Node.js services, APIs, auth, and data layers.
+
+```
+site:linkedin.com/jobs "backend engineer" Python remote
+site:linkedin.com/jobs "backend developer" "FastAPI" remote
+site:linkedin.com/jobs "Python backend developer" remote
+site:linkedin.com/jobs "Node.js developer" remote
+site:freehire.me "backend" Python remote
+site:linkedin.com/jobs "بیک اینڈ ڈویلپر" ریموٹ
+site:rozee.pk "بیک اینڈ ڈویلپر" لاہور
+```
+
+### Priority 4: Adjacent and domain roles
+
+Real-time media, SaaS platform, and infrastructure-adjacent roles where your LiveKit/WebRTC, Docker/Terraform, and multi-tenant SaaS experience applies.
+
+```
+site:linkedin.com/jobs "WebRTC" engineer remote
+site:linkedin.com/jobs "real-time" "software engineer" remote
+site:linkedin.com/jobs "video platform" engineer remote
+site:linkedin.com/jobs "platform engineer" Docker AWS remote
+site:linkedin.com/jobs "SaaS" "full stack" engineer remote
+site:linkedin.com/jobs "ریموٹ" "سافٹ ویئر انجینئر"
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+Based in Lahore, Pakistan; remote roles are preferred, and relocation is acceptable within Pakistan and abroad when the role requires it.
+
+- **Remote (worldwide)** - acceptable, including employers without a Pakistan entity if they hire contractors
+- **Remote within Europe / US time zones** - acceptable where async or overlap with PKT (UTC+5) is workable; he currently works with US clients
+- **Lahore, Pakistan (on-site or hybrid)** - acceptable
+- **On-site or hybrid elsewhere in Pakistan** - acceptable; he is willing to relocate (note the city)
+- **On-site abroad** - acceptable when the employer offers visa/relocation support; flag the posting when sponsorship or right-to-work is unclear
+- **"Remote" that hides a country-restricted location** - flag it: a posting that says remote but limits hiring to a country he cannot work from is not a match
 
 ## Language Filter
 
