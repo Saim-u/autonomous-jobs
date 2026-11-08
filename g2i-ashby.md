@@ -1,0 +1,110 @@
+- generic [ref=f25e2]:
+  - list [ref=f25e4]:
+    - listitem [ref=f25e5]:
+      - link [ref=f25e6] [cursor=pointer]:
+        - /url: https://www.g2i.co/
+        - img "G2i Inc." [ref=f25e7]
+    - listitem [ref=f25e8]:
+      - link "Back to G2i Inc.’s Job Listings" [ref=f25e9] [cursor=pointer]:
+        - /url: /g2i
+    - listitem
+  - generic [ref=f25e12]:
+    - heading "TypeScript Senior Software Engineer, AI Training" [level=1] [ref=f25e14]
+    - generic [ref=f25e15]:
+      - generic [ref=f25e16]:
+        - generic [ref=f25e17]:
+          - heading "Location" [level=2] [ref=f25e18]
+          - paragraph [ref=f25e19]: Remote
+        - generic [ref=f25e20]:
+          - heading "Employment Type" [level=2] [ref=f25e21]
+          - paragraph [ref=f25e22]: Contract
+        - generic [ref=f25e23]:
+          - heading "Location Type" [level=2] [ref=f25e24]
+          - paragraph [ref=f25e25]: Remote
+        - generic [ref=f25e26]:
+          - heading "Department" [level=2] [ref=f25e27]
+          - paragraph [ref=f25e28]: G2i Eng Team
+      - generic [ref=f25e29]:
+        - tablist [ref=f25e30]:
+          - tab "Overview" [selected] [ref=f25e31] [cursor=pointer]
+          - tab "Application" [ref=f25e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=f25e34]:
+          - generic [ref=f25e35]:
+            - paragraph [ref=f25e36]: Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week
+            - paragraph [ref=f25e37]
+            - paragraph [ref=f25e38]: Please note that eligibility may vary depending on your location, as some regions may not be supported by the client.
+            - paragraph [ref=f25e39]
+            - paragraph [ref=f25e40]:
+              - strong [ref=f25e41]: "Check out this Loom video for more details:"
+              - link "https://www.loom.com/share/b0d1b0bf24c44ae8b95dca84b9db60e5" [ref=f25e42] [cursor=pointer]:
+                - /url: https://www.loom.com/share/b0d1b0bf24c44ae8b95dca84b9db60e5
+            - paragraph [ref=f25e43]
+            - paragraph [ref=f25e44]: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code.
+            - paragraph [ref=f25e45]
+            - paragraph [ref=f25e46]: "This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engineer."
+            - paragraph [ref=f25e47]
+            - heading [level=2] [ref=f25e48]:
+              - strong [ref=f25e49]: What this role actually is
+            - paragraph [ref=f25e50]: "You will assess how AI coding agents behave in real-world scenarios, focusing on:"
+            - paragraph [ref=f25e51]: • Whether the response makes sense
+            - paragraph [ref=f25e52]: • Whether the preamble and reasoning are useful
+            - paragraph [ref=f25e53]: • Whether the output reflects strong engineering judgment
+            - paragraph [ref=f25e54]: • Whether the interaction feels right to an experienced developer
+            - paragraph [ref=f25e55]: This role is about engineering taste. Syntax correctness is the easy part.
+            - paragraph [ref=f25e56]
+            - heading [level=2] [ref=f25e57]:
+              - strong [ref=f25e58]: What you'll be doing
+            - paragraph [ref=f25e59]: • Evaluate AI-generated coding interactions end to end
+            - paragraph [ref=f25e60]: • Judge whether outputs are useful, correct at a high level, and aligned with how a strong engineer would think
+            - paragraph [ref=f25e61]: • Assess the quality of explanations and reasoning, not just the code
+            - paragraph [ref=f25e62]: • Distinguish between levels of response quality (what makes something a 2 vs a 4)
+            - paragraph [ref=f25e63]: • Give clear, opinionated feedback in writing on what worked, what didn't, and what felt off or misleading
+            - paragraph [ref=f25e64]: • Help define what great looks like when working with tools like Cursor, Codex and Claude Code
+            - paragraph [ref=f25e65]
+            - heading [level=2] [ref=f25e66]:
+              - strong [ref=f25e67]: What we mean by "taste"
+            - paragraph [ref=f25e68]: "We're looking for engineers who can answer questions like:"
+            - paragraph [ref=f25e69]: • Does this feel like something a strong engineer would actually say?
+            - paragraph [ref=f25e70]: • Is this explanation helpful, or just technically correct?
+            - paragraph [ref=f25e71]: • Is the model guiding the user well, or just dumping output?
+            - paragraph [ref=f25e72]: • Would this interaction build or erode trust?
+            - paragraph [ref=f25e73]: You should be comfortable making subjective but rigorous judgments, and explaining them clearly.
+            - paragraph [ref=f25e74]
+            - heading [level=2] [ref=f25e75]:
+              - strong [ref=f25e76]: Who you are
+            - paragraph [ref=f25e77]: • Senior, Staff or Principal-level engineer (or equivalent experience)
+            - paragraph [ref=f25e78]: • Strong background in TypeScript/JavaScript or Python
+            - paragraph [ref=f25e79]: • Hands-on experience with at least one of OpenAI Codex, Claude Code or Cursor
+            - paragraph [ref=f25e80]: • Deep familiarity with modern AI-assisted dev workflows
+            - paragraph [ref=f25e81]: • Able to evaluate code without executing it or reviewing every line
+            - paragraph [ref=f25e82]: • Strong written and spoken English (B2 or above). You'll be writing detailed feedback and recording short video explanations, so this is a hard requirement
+            - paragraph [ref=f25e83]: • Comfortable giving direct, opinionated feedback
+            - paragraph [ref=f25e84]: • High bar for what good engineering looks like
+            - paragraph [ref=f25e85]
+            - heading [level=2] [ref=f25e86]:
+              - strong [ref=f25e87]: Nice to have
+            - paragraph [ref=f25e88]: • Prior exposure to prompt design or evaluation workflows
+            - paragraph [ref=f25e89]: • Experience mentoring senior engineers or defining engineering standards
+            - paragraph [ref=f25e90]
+            - heading [level=2] [ref=f25e91]:
+              - strong [ref=f25e92]: Engagement details
+            - paragraph [ref=f25e93]: "• Rate: $100-$200/hour depending on experience and location"
+            - paragraph [ref=f25e94]: "• Hours: 10-20 hours/week, flexible"
+            - paragraph [ref=f25e95]: "• Duration: ongoing. Projects run from about two weeks to a few months each, and we offer new ones to evaluators who do well"
+            - paragraph [ref=f25e96]: "• Start: as soon as you clear the take-home and a project has an open seat"
+            - paragraph [ref=f25e97]: "• Process: one take-home evaluation exercise with a recorded Loom walkthrough. No interview"
+          - link [ref=f25e98] [cursor=pointer]:
+            - /url: /g2i/96204444-cf33-4fc9-a4c2-55d9409abb37/application
+            - button "Apply for this Job" [ref=f25e99]
+  - contentinfo [ref=f25e100]:
+    - link "Learn more about Ashby" [ref=f25e101] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f25e102]: Powered by
+      - img "Ashby" [ref=f25e103]
+    - paragraph [ref=f25e109]:
+      - link "Privacy Policy" [ref=f25e110] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f25e111] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f25e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

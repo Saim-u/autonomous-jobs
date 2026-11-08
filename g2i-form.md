@@ -1,0 +1,180 @@
+- generic [ref=f25e2]:
+  - list [ref=f25e4]:
+    - listitem [ref=f25e5]:
+      - link [ref=f25e6] [cursor=pointer]:
+        - /url: https://www.g2i.co/
+        - img "G2i Inc." [ref=f25e7]
+    - listitem [ref=f25e8]:
+      - link "Back to G2i Inc.’s Job Listings" [ref=f25e9] [cursor=pointer]:
+        - /url: /g2i
+    - listitem
+  - generic [ref=f25e12]:
+    - heading "TypeScript Senior Software Engineer, AI Training" [level=1] [ref=f25e14]
+    - generic [ref=f25e15]:
+      - generic [ref=f25e16]:
+        - generic [ref=f25e17]:
+          - heading "Location" [level=2] [ref=f25e18]
+          - paragraph [ref=f25e19]: Remote
+        - generic [ref=f25e20]:
+          - heading "Employment Type" [level=2] [ref=f25e21]
+          - paragraph [ref=f25e22]: Contract
+        - generic [ref=f25e23]:
+          - heading "Location Type" [level=2] [ref=f25e24]
+          - paragraph [ref=f25e25]: Remote
+        - generic [ref=f25e26]:
+          - heading "Department" [level=2] [ref=f25e27]
+          - paragraph [ref=f25e28]: G2i Eng Team
+      - generic [ref=f25e29]:
+        - tablist [ref=f25e30]:
+          - tab "Overview" [ref=f25e31] [cursor=pointer]
+          - tab "Application" [selected] [ref=f25e32] [cursor=pointer]
+        - tabpanel "Application" [ref=f25e113]:
+          - generic [ref=f25e115]:
+            - generic [ref=f25e116]:
+              - generic [ref=f25e117]: Name*
+              - textbox "Name*" [ref=f25e119] [cursor=pointer]:
+                - /placeholder: Type here...
+            - generic [ref=f25e120]:
+              - generic [ref=f25e121]: Email*
+              - textbox "Email*" [ref=f25e123] [cursor=pointer]:
+                - /placeholder: hello@example.com...
+            - generic [ref=f25e124]:
+              - generic [ref=f25e125]: Location*
+              - generic [ref=f25e126]:
+                - combobox "Start typing..." [ref=f25e127] [cursor=pointer]
+                - button [ref=f25e128] [cursor=pointer]
+            - generic [ref=f25e131]:
+              - generic [ref=f25e132]: Resume*
+              - button "Resume*" [ref=f25e133]
+              - generic [ref=f25e134]:
+                - button "Upload File" [ref=f25e135] [cursor=pointer]
+                - paragraph [ref=f25e139]: or drag and drop here
+            - generic [ref=f25e140]:
+              - generic [ref=f25e141]: Phone number*
+              - textbox "Phone number*" [ref=f25e142] [cursor=pointer]:
+                - /placeholder: 1-415-555-1234...
+            - generic [ref=f25e143]:
+              - generic [ref=f25e144]: Desired hourly rate $USD/hr
+              - paragraph [ref=f25e146]
+              - spinbutton "Desired hourly rate $USD/hr" [ref=f25e147] [cursor=pointer]
+            - generic [ref=f25e148]:
+              - generic [ref=f25e149]: What is the earliest date you could start working on this project?*
+              - textbox "Pick date..." [ref=f25e152] [cursor=pointer]
+            - generic [ref=f25e153]:
+              - generic [ref=f25e154]: Do you agree to a simple background check for this project?*
+              - generic [ref=f25e155]:
+                - button "Yes" [ref=f25e156] [cursor=pointer]
+                - button "No" [ref=f25e157] [cursor=pointer]
+            - group [ref=f25e159]:
+              - generic [ref=f25e160]: Preferred languages (select up to 5)*
+              - generic [ref=f25e161]:
+                - checkbox "C" [ref=f25e165] [cursor=pointer]
+                - generic [ref=f25e166]: C
+              - generic [ref=f25e167]:
+                - checkbox "C#" [ref=f25e171] [cursor=pointer]
+                - generic [ref=f25e172]: C#
+              - generic [ref=f25e173]:
+                - checkbox "C++" [ref=f25e177] [cursor=pointer]
+                - generic [ref=f25e178]: C++
+              - generic [ref=f25e179]:
+                - checkbox "Clojure" [ref=f25e183] [cursor=pointer]
+                - generic [ref=f25e184]: Clojure
+              - generic [ref=f25e185]:
+                - checkbox "Dart" [ref=f25e189] [cursor=pointer]
+                - generic [ref=f25e190]: Dart
+              - generic [ref=f25e191]:
+                - checkbox "Elixir" [ref=f25e195] [cursor=pointer]
+                - generic [ref=f25e196]: Elixir
+              - generic [ref=f25e197]:
+                - checkbox "Go" [ref=f25e201] [cursor=pointer]
+                - generic [ref=f25e202]: Go
+              - generic [ref=f25e203]:
+                - checkbox "Java" [ref=f25e207] [cursor=pointer]
+                - generic [ref=f25e208]: Java
+              - generic [ref=f25e209]:
+                - checkbox "JavaScript" [ref=f25e213] [cursor=pointer]
+                - generic [ref=f25e214]: JavaScript
+              - generic [ref=f25e215]:
+                - checkbox "Julia" [ref=f25e219] [cursor=pointer]
+                - generic [ref=f25e220]: Julia
+              - generic [ref=f25e221]:
+                - checkbox "Kotlin" [ref=f25e225] [cursor=pointer]
+                - generic [ref=f25e226]: Kotlin
+              - generic [ref=f25e227]:
+                - checkbox "Lua" [ref=f25e231] [cursor=pointer]
+                - generic [ref=f25e232]: Lua
+              - generic [ref=f25e233]:
+                - checkbox "MATLAB" [ref=f25e237] [cursor=pointer]
+                - generic [ref=f25e238]: MATLAB
+              - generic [ref=f25e239]:
+                - checkbox "PHP" [ref=f25e243] [cursor=pointer]
+                - generic [ref=f25e244]: PHP
+              - generic [ref=f25e245]:
+                - checkbox "Python" [ref=f25e249] [cursor=pointer]
+                - generic [ref=f25e250]: Python
+              - generic [ref=f25e251]:
+                - checkbox "R" [ref=f25e255] [cursor=pointer]
+                - generic [ref=f25e256]: R
+              - generic [ref=f25e257]:
+                - checkbox "Ruby" [ref=f25e261] [cursor=pointer]
+                - generic [ref=f25e262]: Ruby
+              - generic [ref=f25e263]:
+                - checkbox "Rust" [ref=f25e267] [cursor=pointer]
+                - generic [ref=f25e268]: Rust
+              - generic [ref=f25e269]:
+                - checkbox "Scala" [ref=f25e273] [cursor=pointer]
+                - generic [ref=f25e274]: Scala
+              - generic [ref=f25e275]:
+                - checkbox "SQL" [ref=f25e279] [cursor=pointer]
+                - generic [ref=f25e280]: SQL
+              - generic [ref=f25e281]:
+                - checkbox "Swift" [ref=f25e285] [cursor=pointer]
+                - generic [ref=f25e286]: Swift
+              - generic [ref=f25e287]:
+                - checkbox "TypeScript" [ref=f25e291] [cursor=pointer]
+                - generic [ref=f25e292]: TypeScript
+            - group [ref=f25e294]:
+              - generic [ref=f25e295]: How would you describe your written English?*
+              - generic [ref=f25e296]:
+                - 'radio "Fluent: I write detailed technical reviews and explanations in English without effort" [ref=f25e299] [cursor=pointer]'
+                - generic [ref=f25e300]: "Fluent: I write detailed technical reviews and explanations in English without effort"
+              - generic [ref=f25e301]:
+                - 'radio "Advanced: I can write clear technical feedback in English, with occasional mistakes" [ref=f25e304] [cursor=pointer]'
+                - generic [ref=f25e305]: "Advanced: I can write clear technical feedback in English, with occasional mistakes"
+              - generic [ref=f25e306]:
+                - 'radio "Intermediate: I can write short technical notes, but longer explanations are hard for me" [ref=f25e309] [cursor=pointer]'
+                - generic [ref=f25e310]: "Intermediate: I can write short technical notes, but longer explanations are hard for me"
+              - generic [ref=f25e311]:
+                - 'radio "Basic: I can only write basic English" [ref=f25e314] [cursor=pointer]'
+                - generic [ref=f25e315]: "Basic: I can only write basic English"
+            - group [ref=f25e317]:
+              - generic [ref=f25e318]: How would you describe your spoken English?*
+              - generic [ref=f25e319]:
+                - 'radio "Fluent: I can talk through technical reasoning on video without preparing" [ref=f25e322] [cursor=pointer]'
+                - generic [ref=f25e323]: "Fluent: I can talk through technical reasoning on video without preparing"
+              - generic [ref=f25e324]:
+                - 'radio "Advanced: I can explain my reasoning on video if I prepare a bit first" [ref=f25e327] [cursor=pointer]'
+                - generic [ref=f25e328]: "Advanced: I can explain my reasoning on video if I prepare a bit first"
+              - generic [ref=f25e329]:
+                - 'radio "Intermediate: I can hold a simple conversation, but explaining reasoning is difficult" [ref=f25e332] [cursor=pointer]'
+                - generic [ref=f25e333]: "Intermediate: I can hold a simple conversation, but explaining reasoning is difficult"
+              - generic [ref=f25e334]:
+                - 'radio "Basic: I can only speak basic English" [ref=f25e337] [cursor=pointer]'
+                - generic [ref=f25e338]: "Basic: I can only speak basic English"
+          - generic [ref=f25e339]:
+            - generic:
+              - link "Recruiting Privacy Policy":
+                - /url: https://g2i.co/privacy-policy
+          - button "Submit Application" [ref=f25e340] [cursor=pointer]
+  - contentinfo [ref=f25e100]:
+    - link "Learn more about Ashby" [ref=f25e101] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f25e102]: Powered by
+      - img "Ashby" [ref=f25e103]
+    - paragraph [ref=f25e109]:
+      - link "Privacy Policy" [ref=f25e110] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f25e111] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f25e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
