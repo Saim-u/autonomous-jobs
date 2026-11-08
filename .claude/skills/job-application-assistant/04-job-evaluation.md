@@ -93,7 +93,9 @@ Does the role and company culture match the behavioral profile?
 ### 4. Location & Logistics (Pass/Fail + Notes)
 - Within commute range: PASS
 - Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Requires relocation within Pakistan: PASS (note the city and any relocation support)
+- Requires relocation abroad: PASS when the employer offers visa/relocation support; FLAG when sponsorship or right-to-work is unclear
+- Remote restricted to a country he cannot work from: FAIL
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
