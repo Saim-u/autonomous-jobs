@@ -1,10 +1,7 @@
-%% Example CV - [YOUR_NAME]
+%% Master CV - Saim Saeed
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
-%%
-%% SETUP: Run /setup to populate this with your actual information.
 %% Compile with: lualatex main_example.tex
-%% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
 
 \documentclass[11pt,a4paper,sans]{moderncv}
 \moderncvstyle{banking}
@@ -40,7 +37,7 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Saim Saeed - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -48,15 +45,14 @@
 }}
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
+\usepackage{needspace}
 
 % personal data
-\name{[First]}{[Last]}
-% If you have no address to list, DELETE this whole line. \address{}{}{} fails
-% with "There's no line here to end" on every moderncv version.
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Saim}{Saeed}
+\address{Lahore, Pakistan}{}{}
+\phone[mobile]{+92 324 1706744}
+\email{saeedsaim299@gmail.com}
+\extrainfo{\href{https://linkedin.com/in/saim-saeed-719a6a3a9}{LinkedIn}, \href{https://github.com/Saim-u}{GitHub}}
 
 \begin{document}
 
@@ -67,7 +63,7 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Full-stack engineer with 19 months of production experience shipping web applications in TypeScript and Python. Builds across the stack: React 19 and Next.js App Router on the front end, async FastAPI and PostgreSQL on the back, with Docker, Terraform, and CI/CD on AWS. Uses Claude Code for task scoping, implementation support, and AI-generated diff review, while validating changes through code review and production debugging. Experience spans real-time video infrastructure (LiveKit SFU, WebRTC, HLS), JWT authentication and role-based access control, Stripe and PayFast billing, and performance work on data-heavy dashboards.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -77,15 +73,15 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Frontend}: React 19, Next.js (App Router), Redux, Tailwind CSS, Framer Motion, HTML5, CSS3
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Backend}: FastAPI, SQLAlchemy 2 (async), Node.js, Express.js, REST API design, WebSockets, Webhooks
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{Real-Time Media}: WebRTC, LiveKit SFU, LiveKit Egress, HLS playback
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Data and Infrastructure}: PostgreSQL, MongoDB, Redis, asyncpg, Alembic, AWS (EC2, S3), Docker, Docker Compose, Terraform, Caddy, Vercel, CI/CD
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Integrations and Practices}: Stripe, PayFast, S3/Bunny CDN, Resend; monorepo architecture, multi-tenancy, RBAC, Git/GitHub, code review, performance optimization, AI-assisted development with Claude Code
 
 \end{itemize}
 
@@ -98,33 +94,47 @@
 \begin{itemize}
 
 % --- Most Recent Role ---
-\item{\cventry{[YYYY-Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{Mar 2026 - Present}{Full-stack Web Developer}{ZensBot Ltd}{Remote}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1 - be specific, use numbers where possible]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
-    \item {[Achievement or responsibility 4]}
+    \item {Build ZensZoom, a multi-tenant live-classroom video platform, in a TypeScript monorepo: Next.js App Router frontend on Vercel and an async FastAPI backend (SQLAlchemy 2, asyncpg, Alembic) on AWS EC2}
+    \item {Implemented real-time media over a LiveKit SFU with a dedicated WebSocket service, Egress-based session recording, and HLS playback}
+    \item {Traced a silent recording failure to a webhook payload-shape mismatch in LiveKit egress events, restoring session processing}
+    \item {Integrated Stripe and PayFast payment gateways for billing, plus S3 and Bunny CDN storage}
+    \item {Own deployment across staging and production with Docker Compose, Caddy, and Terraform}
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Previous Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{May 2025 - Present}{Software Engineer}{ShopOnlineNewYork}{Remote}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
+    \item {Build product detail page features end to end, from branch through code review to merge, including a color/variant selector for orders}
+    \item {Refactored Redux state management on data-heavy dashboards to eliminate unnecessary re-renders and improve rendering performance}
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Earlier Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{Mar 2025 - Mar 2026}{Software Developer}{CNS}{Remote}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
+    \item {Deployed full-stack applications with automated CI/CD pipelines, reducing manual release steps and deployment downtime}
+    \item {Implemented JWT authentication and role-based access control to enforce access boundaries across enterprise systems}
+    \item {Ran code reviews and mentored two junior developers on maintainability and modern patterns}
 \end{itemize}}}
 
+\end{itemize}
+
+% ============================================================
+%     PROJECTS
+% ============================================================
+
+\section{Projects}
+\vspace{1pt}
+\begin{itemize}
+\item{\textbf{Crypto Strategy Backtesting Engine} (Python, pandas, Bybit API): vectorized backtesting with a causality audit guard, fee and slippage modeling, and out-of-sample validation that evaluated 1,494 parameter configurations and rejected the strategy family on evidence rather than overfitting.}
 \end{itemize}
 
 % ============================================================
@@ -135,15 +145,7 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
-}}
-
-\vspace{3pt}
-
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
-}}
+\item{\cventry{2022 - 2026}{BS Computer Science}{University of Education, Lahore}{Lahore, Pakistan}{}{CGPA 3.25 / 4.0.}}
 
 \end{itemize}
 
@@ -154,27 +156,18 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item {[Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).}
+\item {English (professional working proficiency), Urdu (native).}
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
-% ============================================================
-
-\section{Publications}
-\vspace{1pt}
-\begin{itemize}
-\item {[Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}}
-\end{itemize}
-
-% ============================================================
-%     HONORS AND AWARDS (optional)
+%     HONORS AND AWARDS
 % ============================================================
 
 \section{Honors and Awards}
 \vspace{1pt}
 \begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item{\textbf{HEC Pakistan NSCT Computer Science Proficiency Test} - 86.5th percentile.}
+\item{\textbf{Python Programming} - Coursera (2026).}
 \end{itemize}
 
 % ============================================================
