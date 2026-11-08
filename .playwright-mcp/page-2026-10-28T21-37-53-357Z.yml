@@ -1,0 +1,410 @@
+- generic [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - navigation "Primary" [ref=e4]:
+      - link "LinkedIn" [ref=e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+      - generic [ref=e8]:
+        - button "Jobs" [ref=e10] [cursor=pointer]
+        - tabpanel "Jobs" [ref=e12]:
+          - search [ref=e13]:
+            - generic [ref=e14]:
+              - combobox "Search job titles or companies" [ref=e15]: Full Stack Engineer (TypeScript, AI-Native)
+              - button "Clear text" [ref=e16] [cursor=pointer]
+            - generic [ref=e18]:
+              - combobox "Location" [ref=e19]: Wah Cantonment
+              - button "Clear text" [ref=e20] [cursor=pointer]
+            - button "Search" [ref=e22] [cursor=pointer]
+        - status [ref=e23]
+      - generic [ref=e24]:
+        - link "Sign in" [ref=e25] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4478908565&trk=public_jobs_nav-header-signin
+        - link "Join now" [ref=e26] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4478908565&trk=public_jobs_nav-header-join
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - generic [ref=e443]:
+        - img "Dataspecc" [ref=e444]
+        - generic [ref=e445]:
+          - heading "Full Stack Engineer (TypeScript, AI-Native)" [level=3] [ref=e446]
+          - generic [ref=e447]:
+            - link "Dataspecc" [ref=e448] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/dataspecc?trk=public_jobs_sub-nav-cta-optional-url
+            - text: ·Pakistan
+      - generic [ref=e31]:
+        - link [ref=e32] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/dataspecc?trk=public_jobs_topcard_logo
+          - img "Dataspecc" [ref=e33]
+        - generic [ref=e35]:
+          - heading "Full Stack Engineer (TypeScript, AI-Native)" [level=1] [ref=e36]
+          - heading [level=4] [ref=e37]:
+            - generic [ref=e38]:
+              - link "Dataspecc" [ref=e40] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/dataspecc?trk=public_jobs_topcard-org-name
+              - text: · Pakistan
+            - generic [ref=e41]:
+              - text: 1 week ago
+              - figure "Over 200 applicants" [ref=e42]: · Over 200 applicants
+            - link "See who Dataspecc has hired for this role" [ref=e44] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D31486177%26title%3DFull%2BStack%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=e47]: See who Dataspecc has hired for this role
+        - button "Open menu" [ref=e50] [cursor=pointer]
+        - generic [ref=e52]:
+          - heading "Use AI to assess how you fit" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=e55]:
+            - button "AI powered advice" [ref=e56] [cursor=pointer]
+            - button "Am I a good fit for this job?" [ref=e58] [cursor=pointer]
+            - button "Tailor my resume" [ref=e61] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - generic [ref=e69]:
+              - paragraph [ref=e70]: 📍 Remote | 💼 2–4 years | 💰 Market-competitive, USD-pegged
+              - paragraph [ref=e71]
+              - paragraph [ref=e72]:
+                - strong [ref=e73]: If Claude Code or Codex is already open on your screen, keep reading.
+              - paragraph [ref=e74]
+              - paragraph [ref=e75]:
+                - strong [ref=e76]: 🚀 Why Dataspecc
+              - paragraph [ref=e77]: Since 2019 we've delivered 100+ projects. We run full engineering teams for US-based SaaS products and build AI-powered platforms end to end. Everything our engineers write goes to production, in front of real customers. No demos, no throwaway prototypes.
+              - paragraph [ref=e78]
+              - paragraph [ref=e79]:
+                - strong [ref=e80]: 🧠 The Role
+              - paragraph [ref=e81]: We're hiring full stack engineers who have rebuilt how they work around AI coding agents. You'll plan, write, test, refactor and debug with Claude Code and Codex every day, and ship in days what used to take weeks.
+              - paragraph [ref=e82]
+              - paragraph [ref=e83]: To be clear, asking ChatGPT for the occasional snippet isn't what we mean. We want engineers who can run agents across a real codebase, read the output with a critical eye, and own what gets merged. Fast matters here. So does right.
+              - paragraph [ref=e84]
+              - paragraph [ref=e85]:
+                - strong [ref=e86]: 🛠️ What You'll Do
+              - list [ref=e87]:
+                - listitem [ref=e88]: Ship full stack features end to end in TypeScript, from UI to API to database
+                - listitem [ref=e89]: Use Claude Code and Codex as your primary tools for building, refactoring, testing and debugging
+                - listitem [ref=e90]: Break big tasks into well-scoped agent work, then review, correct and merge the output
+                - listitem [ref=e91]: "Integrate third-party APIs and services: payments, auth, CRMs, webhooks"
+                - listitem [ref=e92]: Keep code clean, tested and maintainable while moving fast
+                - listitem [ref=e93]: Work directly with client teams, take ownership and communicate clearly in English
+              - paragraph [ref=e94]
+              - paragraph [ref=e95]:
+                - strong [ref=e96]: ⚙️ Our Stack
+              - list [ref=e97]:
+                - listitem [ref=e98]:
+                  - strong [ref=e99]: "Frontend:"
+                  - text: React, Next.js, Tailwind CSS
+                - listitem [ref=e100]:
+                  - strong [ref=e101]: "Backend:"
+                  - text: Node.js (Express, NestJS, Next.js API routes)
+                - listitem [ref=e102]:
+                  - strong [ref=e103]: "Database:"
+                  - text: PostgreSQL, Supabase, Prisma or Drizzle
+                - listitem [ref=e104]:
+                  - strong [ref=e105]: "Infra:"
+                  - text: Vercel, AWS, Docker, GitHub Actions
+                - listitem [ref=e106]:
+                  - strong [ref=e107]: "Workflow:"
+                  - text: Claude Code, Codex, Cursor, GitHub
+              - paragraph [ref=e108]
+              - paragraph [ref=e109]:
+                - strong [ref=e110]: ✅ Must-Haves (Non-Negotiable)
+              - list [ref=e111]:
+                - listitem [ref=e112]: 2–4 years of professional full stack experience in TypeScript
+                - listitem [ref=e113]: Strong React/Next.js and Node.js fundamentals
+                - listitem [ref=e114]: Claude Code and/or Codex as your daily, hands-on development workflow
+                - listitem [ref=e115]: "A track record of shipping fast with AI: features or projects you can point to"
+                - listitem [ref=e116]: Sharp judgment reviewing AI-generated code. You catch bugs, security holes and bad patterns before they ship
+                - listitem [ref=e117]: Solid SQL and data modeling
+                - listitem [ref=e118]: Clear written and spoken English
+              - paragraph [ref=e119]
+              - paragraph [ref=e120]:
+                - strong [ref=e121]: ⭐ Bonus Points
+              - list [ref=e122]:
+                - listitem [ref=e123]: "You've set up agent workflows: CLAUDE.md / AGENTS.md files, custom commands, MCP servers, subagents"
+                - listitem [ref=e124]: You run multiple agents in parallel across separate tasks or worktrees
+                - listitem [ref=e125]: SaaS or B2B product experience
+                - listitem [ref=e126]: You've worked directly with US clients or remote teams
+                - listitem [ref=e127]: Side projects you shipped quickly with AI tools
+              - paragraph [ref=e128]
+              - paragraph [ref=e129]:
+                - strong [ref=e130]: 🎁 What You Get
+              - list [ref=e131]:
+                - listitem [ref=e132]: USD-pegged salary
+                - listitem [ref=e133]: Fully remote work
+                - listitem [ref=e134]: Paid Claude and Codex subscriptions
+                - listitem [ref=e135]: Real US SaaS products on modern stacks
+                - listitem [ref=e136]: A fast-moving team where you own outcomes, not tickets
+                - listitem [ref=e137]: Annual performance-based reviews
+              - paragraph [ref=e138]
+              - paragraph [ref=e139]:
+                - strong [ref=e140]: 📩 How to Apply
+              - paragraph [ref=e141]: "Send us:"
+              - list [ref=e142]:
+                - listitem [ref=e143]: Your CV
+                - listitem [ref=e144]: Your GitHub or portfolio
+                - listitem [ref=e145]: A short note on how you use Claude Code or Codex day to day, with one example of something you shipped fast using it
+            - button "Show more" [active] [ref=e146] [cursor=pointer]
+          - list [ref=e148]:
+            - listitem [ref=e149]:
+              - heading "Seniority level" [level=3] [ref=e150]
+              - text: Entry level
+            - listitem [ref=e151]:
+              - heading "Employment type" [level=3] [ref=e152]
+              - text: Full-time
+            - listitem [ref=e153]:
+              - heading "Industries" [level=3] [ref=e154]
+              - text: IT Services and IT Consulting
+        - generic [ref=e159]:
+          - paragraph [ref=e160]: Referrals increase your chances of interviewing at Dataspecc by 2x
+          - link "See who you know" [ref=e161] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D31486177&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+      - generic [ref=e163]:
+        - generic [ref=e164]: Get notified when a new job is posted.
+        - generic [ref=e167]:
+          - button "Set alert" [ref=e168]
+          - generic [ref=e169]: Set alert
+      - generic [ref=e170]:
+        - heading "Similar jobs" [level=2] [ref=e171]
+        - generic [ref=e173]:
+          - list [ref=e174]:
+            - listitem [ref=e175]:
+              - generic [ref=e176]:
+                - link "Full Stack Engineer" [ref=e177] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-engineer-at-we-are-revolution-4481422146?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=8YbFqbZB5HpKz2CrEDH3HQ%3D%3D
+                - generic [ref=e179]:
+                  - heading "Full Stack Engineer" [level=3] [ref=e180]
+                  - heading [level=4] [ref=e181]:
+                    - link "We Are Revolution" [ref=e182] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/we-are-revolution-limited?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e183]:
+                    - generic [ref=e184]: Pakistan
+                    - time [ref=e185]: 2 days ago
+            - listitem [ref=e186]:
+              - generic [ref=e187]:
+                - link "Full Stack Developer AI & Automation" [ref=e188] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-developer-%EE%82%81ai-automation-at-we-are-revolution-4472902392?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=mAcmF9Ib0H6W7zjmo%2F2New%3D%3D
+                - generic [ref=e190]:
+                  - heading "Full Stack Developer AI & Automation" [level=3] [ref=e191]
+                  - heading [level=4] [ref=e192]:
+                    - link "We Are Revolution" [ref=e193] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/we-are-revolution-limited?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e194]:
+                    - generic [ref=e195]: Pakistan
+                    - time [ref=e196]: 2 weeks ago
+            - listitem [ref=e197]:
+              - generic [ref=e198]:
+                - link "Senior Full-Stack Developer, AI Agents (React/TypeScript/Express/Puppeteer)" [ref=e199] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/senior-full-stack-developer-ai-agents-react-typescript-express-puppeteer-at-businessmentor-com-4482768100?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=dBMPOEC1bsSa5pPoyshVvQ%3D%3D
+                - generic [ref=e201]:
+                  - heading "Senior Full-Stack Developer, AI Agents (React/TypeScript/Express/Puppeteer)" [level=3] [ref=e202]
+                  - heading [level=4] [ref=e203]:
+                    - link "BusinessMentor.com" [ref=e204] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/businessmentor-com?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: Pakistan
+                    - time [ref=e207]: 6 days ago
+            - listitem [ref=e208]:
+              - generic [ref=e209]:
+                - link "Full Stack Product Engineer" [ref=e210] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-product-engineer-at-ajaia-ai-consultancy-4440048926?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=mTHZbJuFTzspHQvFLWD7Mw%3D%3D
+                - generic [ref=e212]:
+                  - heading "Full Stack Product Engineer" [level=3] [ref=e213]
+                  - heading [level=4] [ref=e214]:
+                    - link "Ajaia | AI Consultancy" [ref=e215] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/ajaia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e216]:
+                    - generic [ref=e217]: Pakistan
+                    - time [ref=e218]: 4 months ago
+            - listitem [ref=e219]:
+              - generic [ref=e220]:
+                - link "Forward Deployed Engineer (TypeScript + AI) - Remote - Pakistan" [ref=e221] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/forward-deployed-engineer-typescript-%2B-ai-remote-pakistan-at-fullstack-4482178713?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=o9BaEHOCw2MvtWe9X3pD4A%3D%3D
+                - generic [ref=e223]:
+                  - heading "Forward Deployed Engineer (TypeScript + AI) - Remote - Pakistan" [level=3] [ref=e224]
+                  - heading [level=4] [ref=e225]:
+                    - link "FullStack" [ref=e226] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/fullstack-labs?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: Pakistan
+                    - time [ref=e229]: 6 days ago
+            - listitem [ref=e230]:
+              - generic [ref=e231]:
+                - link "Senior AI Engineer (React + TypeScript) - Remote - Pakistan" [ref=e232] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/senior-ai-engineer-react-%2B-typescript-remote-pakistan-at-fullstack-4470980316?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=sUnYbKG%2FNOw7kriuuHjLig%3D%3D
+                - generic [ref=e234]:
+                  - heading "Senior AI Engineer (React + TypeScript) - Remote - Pakistan" [level=3] [ref=e235]
+                  - heading [level=4] [ref=e236]:
+                    - link "FullStack" [ref=e237] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/fullstack-labs?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=e238]:
+                    - generic [ref=e239]: Pakistan
+                    - time [ref=e240]: 1 week ago
+          - button "Show more jobs like this" [ref=e241] [cursor=pointer]
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - heading "People also viewed" [level=2] [ref=e245]
+        - list [ref=e247]:
+          - listitem [ref=e248]:
+            - generic [ref=e249]:
+              - link "Senior Software Engineer" [ref=e250] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-software-engineer-at-conrad-labs-4478511297?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=Wd%2BHDKTpLmaTpGmQLY4ZFw%3D%3D
+              - generic [ref=e252]:
+                - heading "Senior Software Engineer" [level=3] [ref=e253]
+                - paragraph [ref=e254]:
+                  - link "Conrad Labs" [ref=e255] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/conrad-labs?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e256]:
+                  - generic [ref=e257]: Lahore, Punjab, Pakistan
+                  - time [ref=e258]: 2 weeks ago
+          - listitem [ref=e259]:
+            - generic [ref=e260]:
+              - link "Senior Backend & AI Platform Developer" [ref=e261] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-backend-ai-platform-developer-at-navigator-hr-consulting-solutions-4448905982?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=7D1F8PbDqlm4M68XAmRA8w%3D%3D
+              - generic [ref=e263]:
+                - heading "Senior Backend & AI Platform Developer" [level=3] [ref=e264]
+                - paragraph [ref=e265]:
+                  - link "Navigator HR Consulting Solutions" [ref=e266] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/navigator-hr-consulting-solutions?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e267]:
+                  - generic [ref=e268]: Lahore, Punjab, Pakistan
+                  - time [ref=e269]: 2 months ago
+          - listitem [ref=e270]:
+            - generic [ref=e271]:
+              - link "AI Engineer" [ref=e272] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/ai-engineer-at-codeninja-inc-4479529488?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=HiWPHuHpF0BvtP0e2HeV6A%3D%3D
+              - generic [ref=e274]:
+                - heading "AI Engineer" [level=3] [ref=e275]
+                - paragraph [ref=e276]:
+                  - link "CodeNinja Inc." [ref=e277] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/codeninjainc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e278]:
+                  - generic [ref=e279]: Lahore, Punjab, Pakistan
+                  - time [ref=e280]: 2 weeks ago
+          - listitem [ref=e281]:
+            - generic [ref=e282]:
+              - link "NetSuite Website Developer" [ref=e283] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/netsuite-website-developer-at-allthemed-inc-4478299855?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=uaA7Zrf4FTNJfcHocR%2FwoQ%3D%3D
+              - generic [ref=e285]:
+                - heading "NetSuite Website Developer" [level=3] [ref=e286]
+                - paragraph [ref=e287]:
+                  - link "AllTheMed Inc." [ref=e288] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/allthemed?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e289]:
+                  - generic [ref=e290]: Pakistan
+                  - time [ref=e291]: 1 week ago
+          - listitem [ref=e292]:
+            - generic [ref=e293]:
+              - link "Senior Full Stack Engineer" [ref=e294] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-full-stack-engineer-at-novex-limited-4474413208?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=THtFQVMwYmC08g9fAeBx%2Bw%3D%3D
+              - generic [ref=e296]:
+                - heading "Senior Full Stack Engineer" [level=3] [ref=e297]
+                - paragraph [ref=e298]:
+                  - link "Novex Limited" [ref=e299] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/novexlimited?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e300]:
+                  - generic [ref=e301]: Lahore, Punjab, Pakistan
+                  - time [ref=e302]: 3 weeks ago
+          - listitem [ref=e303]:
+            - generic [ref=e304]:
+              - link "Senior Backend Engineer - Full Stack" [ref=e305] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-backend-engineer-full-stack-at-packagex-4480106547?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=FubP2LTZrDSeRc9%2FzXOttw%3D%3D
+              - generic [ref=e307]:
+                - heading "Senior Backend Engineer - Full Stack" [level=3] [ref=e308]
+                - paragraph [ref=e309]:
+                  - link "PackageX" [ref=e310] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/packagexio?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e311]:
+                  - generic [ref=e312]: Islamabad, Islāmābād, Pakistan
+                  - time [ref=e313]: 1 week ago
+          - listitem [ref=e314]:
+            - generic [ref=e315]:
+              - link "Senior Frontend Engineer" [ref=e316] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-frontend-engineer-at-unifonic-4383828151?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=DGWxD%2FaHUKU1WZihBCk8Kw%3D%3D
+              - generic [ref=e318]:
+                - heading "Senior Frontend Engineer" [level=3] [ref=e319]
+                - paragraph [ref=e320]:
+                  - link "Unifonic" [ref=e321] [cursor=pointer]:
+                    - /url: https://sa.linkedin.com/company/unifonic?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e322]:
+                  - generic [ref=e323]: Lahore, Punjab, Pakistan
+                  - time [ref=e324]: 7 months ago
+          - listitem [ref=e325]:
+            - generic [ref=e326]:
+              - link "Senior Full Stack Developer" [ref=e327] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-full-stack-developer-at-rohatech-pvt-4449658632?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=sXHCi%2BHJ5ScMQy08SPPgSw%3D%3D
+              - generic [ref=e329]:
+                - heading "Senior Full Stack Developer" [level=3] [ref=e330]
+                - paragraph [ref=e331]:
+                  - link "RohaTech Pvt" [ref=e332] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rohatechpvt?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e333]:
+                  - generic [ref=e334]: Islamabad, Islāmābād, Pakistan
+                  - time [ref=e335]: 2 months ago
+          - listitem [ref=e336]:
+            - generic [ref=e337]:
+              - link "Software Engineer" [ref=e338] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/software-engineer-at-acq-recruitment-4481559798?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=Dcog0lMOaaDnNhQugJjM0Q%3D%3D
+              - generic [ref=e340]:
+                - heading "Software Engineer" [level=3] [ref=e341]
+                - paragraph [ref=e342]:
+                  - link "ACQ Recruitment" [ref=e343] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/acq-recruitment?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e344]:
+                  - generic [ref=e345]: Pakistan
+                  - time [ref=e346]: 1 week ago
+          - listitem [ref=e347]:
+            - generic [ref=e348]:
+              - link "Senior Frontend Engineer (Remote, Anywhere in Pakistan, USD Salary)" [ref=e349] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-frontend-engineer-remote-anywhere-in-pakistan-usd-salary-at-hr-pod-careers-4470761657?refId=wmZB6JjuZyM3%2B1JSWCDrWQ%3D%3D&trackingId=60uia4RmSkdLTFfmv2YwCA%3D%3D
+              - generic [ref=e351]:
+                - heading "Senior Frontend Engineer (Remote, Anywhere in Pakistan, USD Salary)" [level=3] [ref=e352]
+                - paragraph [ref=e353]:
+                  - link "HR POD Careers" [ref=e354] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/hrpod-careers?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=e355]:
+                  - generic [ref=e356]: Lahore, Punjab, Pakistan
+                  - time [ref=e357]: 1 month ago
+      - generic [ref=e360]:
+        - heading "Explore top content on LinkedIn" [level=2] [ref=e362]
+        - paragraph [ref=e363]: Find curated posts and insights for relevant topics all in one place.
+        - link "View top content" [ref=e364] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+  - contentinfo [ref=e365]:
+    - list [ref=e366]:
+      - generic [ref=e367]: LinkedIn
+      - generic [ref=e369]: © 2026
+      - listitem [ref=e370]:
+        - link "About" [ref=e371] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+      - listitem [ref=e372]:
+        - link "Accessibility" [ref=e373] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+      - listitem [ref=e374]:
+        - link "User Agreement" [ref=e375] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+      - listitem [ref=e376]:
+        - link "Privacy Policy" [ref=e377] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+      - listitem [ref=e378]:
+        - link "Cookie Policy" [ref=e379] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+      - listitem [ref=e380]:
+        - link "Copyright Policy" [ref=e381] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+      - listitem [ref=e382]:
+        - link "Brand Policy" [ref=e383] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+      - listitem [ref=e384]:
+        - link "Guest Controls" [ref=e385] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+      - listitem [ref=e386]:
+        - link "Community Guidelines" [ref=e387] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+      - listitem [ref=e388]:
+        - button "Language" [ref=e390]
+  - dialog [ref=e428]:
+    - paragraph [ref=e434]: LinkedIn
+    - paragraph [ref=e435]: Know when new jobs open up
+    - paragraph [ref=e436]: Never miss a job alert with the new LinkedIn app for Windows.
+    - link "Get the app" [ref=e437] [cursor=pointer]:
+      - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_job2
+    - button "Dismiss" [ref=e438]

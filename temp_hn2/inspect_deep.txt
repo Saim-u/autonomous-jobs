@@ -1,0 +1,278 @@
+=== ID: 49159028 | Thread: aug_2026 ===
+Header: MixRank (YC S11) | Software Engineers | 100% Remote (Global) | Full-Time
+MixRank (YC S11) | Software Engineers | 100% Remote (Global) | Full-Time
+MixRank processes petabytes of data every month through web crawling. Hundreds of customers use our data products, including Google, Amazon, Facebook, Intel, and Adobe, across industries such as finance, recruiting, sales, marketing, and security. We’re a fully remote company with a global footprint across 20+ countries. We’re growing, profitable, employee-owned, and have no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.
+
+We’re looking for passionate individuals for whom programming is not just a job, but something they genuinely love to do. We’re obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.
+
+Our codebase is friendly to new contributors. You’ll have a fully functional development environment within hours through full automation and will be pushing commits on your first day. Deployments to production happen multiple times per day and finish in under two minutes.Effectively all of our codebase is written in Python, Rust, SQL, JavaScript&#x2F;TypeScript, and Nix. The core technologies you’ll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.
+
+We operate at a larger scale than typical startups. We run two datacenters with high-performance servers we’ve built ourselves, capable of handling the volumes of data we process. We’ve implemented our own distributed file system, perform full-scale web crawls, and download and run static analysis on the entire universe of published Android APKs and iOS IPAs.
+
+Unlike a typical startup where you might spend half your time in meetings and the other half fixing Jira tickets, at MixRank you’ll challenge yourself with difficult technical problems that help you grow as an individual. We’re continuously hiring for the positions below; these aren’t singular roles that close once filled. Our philosophy is that the candidate is more important than the position. For each new member of the team, we design a custom role and responsibilities around their interests.
+Other companies may create a long list of specific requirements with the expectation that you’ll exactly replace someone on the team or fit a role defined by committee. MixRank is more pragmatic: we first get excited about bringing a unique individual onto the team, then figure out the best way to support their specific talents.
+
+Junior Software Engineer - Remote (Global), Full-Time
+
+We’re looking for remote junior engineers with 0–3 years of professional software experience and 5+ years of curiosity exploring computers, programming, and technical hobby projects.
+
+This is an open-ended entry role with mentorship and diverse opportunities to work across all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend&#x2F;backend web development, APIs, data mining, data modeling, and more.
+
+To stand out, please highlight what makes you unique: passion for computing, curiosity and side projects, work ethic, niche research, or anything else that shows how you think and build.
+
+Ideally, you’ve already graduated. But if you still have one or more years left of school, please feel free to apply anyway. If you’re the right fit for the team, we’ll figure out a way to accommodate your schedule.
+
+Apply here:  https:&#x2F;&#x2F;www.ycombinator.com&#x2F;companies&#x2F;mixrank&#x2F;jobs&#x2F;Fnwsojk-j 
+
+Software Engineer - Remote (Global), Full-Time
+
+We’re hiring generalist software engineers to work on web applications, data mining, machine learning&#x2F;data science, data transformation&#x2F;ETL, data modeling, database scaling, infrastructure, DevOps, and more. We’ll tailor the role to the subset of areas that best match your interests.
+
+Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend&#x2F;backend web development, and data mining.
+
+Apply here:  https:&#x2F;&#x2F;www.ycombinator.com&#x2F;companies&#x2F;mixrank&#x2F;jobs&#x2F;RXQspen-s 
+
+I’m Kiran, Chief of Staff at MixRank, a fully remote data startup building go-to-market intelligence. We’re US-incorporated but hire globally, and we’re bringing on new teammates to join a fast-moving team with real ownership and impact.
+
+======================================================================
+
+=== ID: 49523704 | Thread: sep_2026 ===
+Header: CyberAtlas |  https:&#x2F;&#x2F;cyberatlas.ai  | Software Engineer | REMOTE Worldwide | Full-time
+CyberAtlas |  https:&#x2F;&#x2F;cyberatlas.ai  | Software Engineer | REMOTE Worldwide | Full-time
+
+CyberAtlas maps the internet to help security teams, enterprises, and governments discover and understand their exposed digital infrastructure.
+
+We’re hiring a Software Engineer to build internet-scale systems processing billions of domains and websites.
+
+You’ll work on backend services, data pipelines, search, fingerprinting, vulnerability detection, malware detection, and performance optimization.
+
+Looking for strong Python (Flask&#x2F;FastAPI) and&#x2F;or Go experience, large-scale data systems, OpenSearch&#x2F;Elasticsearch, Redis&#x2F;LMDB, MongoDB&#x2F;Postgres, Docker, and production systems.
+
+How to apply:
+Email atlas@cyberatlas.ai with your CV and, as a simple anti-bot check, include:
+
+1. The query you ran on Finder ( https:&#x2F;&#x2F;cyberatlas.ai&#x2F;finder )
+
+2. The first-page results returned by that query
+
+3. Please include “HN Software Engineer” in the subject.
+
+======================================================================
+
+=== ID: 49523422 | Thread: sep_2026 ===
+Header: Proxybase | Backend Systems Engineer (Rust) | Remote, Global | Full-Time
+Proxybase | Backend Systems Engineer (Rust) | Remote, Global | Full-Time
+
+Hi HN,
+I’m the founder of Proxybase [0]. We’re building a SOCKS5 proxy network focused on transparency and ethical sourcing in the residential proxy market.
+A quick note for anyone who applied last month: thank you to everyone who reached out. We received far more strong applications than expected, and between running day-to-day operations and working through the backlog, we took much longer to reply than we should have.
+If you applied last month and haven’t heard back yet, I’m sorry for the delay. We’re actively reviewing those applications alongside this new batch.
+
+Why Proxybase?
+The residential proxy industry has a rough history. Some providers rely on hidden background scrapers bundled into TV firmware or mobile apps, while others use payout systems that can hold provider funds for months.
+
+We’re trying to build something better:
+Open-source clients: Our GUI [1] and CLI [2] are fully open source, so anyone can inspect and audit what runs on their device.
+Explicit consent: Providers knowingly opt in. No stealth bundling.
+Fair, fast payouts: The minimum payout is $1, sent directly to provider wallets in USD stablecoins. We do not hold funds to earn interest on them.
+
+We’re hiring a Backend Systems Engineer with Rust experience to help build:
+
+Asynchronous SOCKS5 routing infrastructure,
+Daemon and node orchestration,
+Automated bandwidth-allocation pipelines
+
+Stack: Rust, Tokio, Axum, SOCKS5, Linux systemd daemons, SQLite
+
+Location: Fully remote, async-friendly, flexible time zones
+Compensation: Competitive salary plus equity. USD or stablecoin payment options are available.
+
+If you’re interested in building infrastructure for an industry that needs better standards, email jobs@proxybase.xyz with your GitHub, résumé, and a short note about what you’ve been working on recently.
+
+I’ll also be around in the comments to answer questions and hear feedback.
+
+[0]:  https:&#x2F;&#x2F;proxybase.xyz 
+
+[1]:  https:&#x2F;&#x2F;github.com&#x2F;proxybasehq&#x2F;proxybase-gui 
+
+[2]:  https:&#x2F;&#x2F;github.com&#x2F;proxybasehq&#x2F;proxybase-cli
+
+======================================================================
+
+=== ID: 49529763 | Thread: sep_2026 ===
+Header: Pagelove |  https:&#x2F;&#x2F;pagelove.com  | Founding Software Engineer | REMOTE | Full-time | $110k–$130k + early equity
+Pagelove |  https:&#x2F;&#x2F;pagelove.com  | Founding Software Engineer | REMOTE | Full-time | $110k–$130k + early equity
+
+Pagelove collapses the modern web stack into its simplest form: no databases, no APIs, no application servers. Just HTML that works like an app, scales like a CDN, and is AI-native by design.
+
+The page becomes the application, API and persisted state. Humans and machines can read and update the same surface directly using CSS selectors over HTTP, rather than through separate HTML and API&#x2F;MCP interfaces. With Pagelove, AI can finally build web applications without having to deal with the complexity of the full stack.
+
+We’re seed-stage and well-funded, hiring our first non-founder engineer. The codebase is Rust, with work including distributed storage, HTTP caching&#x2F;ETags, CRDTs, parser&#x2F;DOM performance, CI and production infrastructure.
+
+Our development process is heavily agentic: Claude Code and Codex do substantial implementation work, with humans focused on architecture, review and the hard problems.
+
+ https:&#x2F;&#x2F;ats.pagelove.com&#x2F;roles&#x2F;founding-software-engineer&#x2F;
+
+======================================================================
+
+=== ID: 49524920 | Thread: sep_2026 ===
+Header: OpenAlex | Software Engineer | Remote | Full-time | $150–200k USD
+OpenAlex | Software Engineer | Remote | Full-time | $150–200k USD
+
+OpenAlex is an open index of the world's scholarly research: hundreds of millions of articles linked to authors, institutions, and topics, free via API and bulk download. Traffic runs about a billion API calls per month from universities, governments, and AI companies. The team behind it is a small nonprofit funded by grants and enterprise support.
+
+We're hiring two engineers to work across the whole backend, which is SQL and PySpark on Databricks, Python&#x2F;Flask APIs, Elasticsearch, and Cloudflare Workers. It's a small team with lots of autonomy. You'll notice what's missing, build it, ship it, and answer the tickets about it. We're AI-native, with agents writing all of our code.
+
+Apply here:  https:&#x2F;&#x2F;openalex.org&#x2F;jobs&#x2F;software-engineer
+
+======================================================================
+
+=== ID: 49165651 | Thread: aug_2026 ===
+Header: Democrance |  https:&#x2F;&#x2F;democrance.com  | Python&#x2F;Django&#x2F;Pyramid&#x2F;Pydantic AI hacker | REMOTE (working in Dubai-UK timezones)
+Democrance |  https:&#x2F;&#x2F;democrance.com  | Python&#x2F;Django&#x2F;Pyramid&#x2F;Pydantic AI hacker | REMOTE (working in Dubai-UK timezones)
+
+We’re a mature microinsurance SaaS startup, building software to help bridge the gap between insurance companies and those who are not insured or under-insured. High traffic, mobile first + SMS platform that requires some interesting compliance and security requirements with deployments in countries with variable quality infrastructure.  Now with added AI sprinkled on top to automate underwriting and data collection tasks - enabling lower cost insurance and reaching wider&#x2F;underserved markets.
+
+Stack is Vue.js with mostly django in the back end although pyramid&#x2F;sqlalchemy is being used in our analytics dashboard. Plenty of third party api integration. Gitlab, unit tests, and continuous integration are standard.
+
+Our devops stack includes Ansible and Terraform, and we operate across the major cloud providers, as well as a few smaller players! Mature and international dev team with a few PhD’s included.
+
+Our QA Automation stack is built in Selenium in Java, and we're exploring Playwright as a complementary technology. Understanding of GIT, CI&#x2F;CD pipelines debugging issues related to them will be key. Experience with TestNG, Maven or Gradle welcome!
+
+We’re looking for both mature candidates and juniors - industry experience is of course welcome.
+
+Please apply to together@democrance.com by clearly stating the role you want to apply for, your name, current location and visa status, your notice period, salary (Please do not apply again if you already have).
+
+ https:&#x2F;&#x2F;www.democrance.com&#x2F;senior-back-end-software-engineer&#x2F;
+
+======================================================================
+
+=== ID: 49525497 | Thread: sep_2026 ===
+Header: Inferra | Bare-Metal GPU Infra + Applied AI | San Francisco &#x2F; REMOTE | Full-time &#x2F; internship
+Inferra | Bare-Metal GPU Infra + Applied AI | San Francisco &#x2F; REMOTE | Full-time &#x2F; internship
+
+We're looking for cracked, optimistic engineers&#x2F;students with good systems taste and high tolerance of ambiguity. We're a team of ~10 in SF, building a GPU neocloud. High agency, lots of freedom, very little boundaries.
+
+Think GPU datacenter bring-up, storage, networking, and designing IaC. Also think optimizing AI workloads, env design, minimizing GPU bring up times, and maximizing hardware fungibility.
+
+Email sasan at inferra.ai with anything relevant. For internships: please tell what you'd like to do in the next ~year, if you could do anything.
+
+======================================================================
+
+=== ID: 49522912 | Thread: sep_2026 ===
+Header: Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity |  https:&#x2F;&#x2F;quill.co&#x2F;
+Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity |  https:&#x2F;&#x2F;quill.co&#x2F; 
+
+I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics & data features to your app. Backed by YCombinator & top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat).
+
+Some examples of how customers get value from Quill:
+• pre-IPO fintech adds custom reporting & data export features to their money movement product.
+• Series B healthtech is now able to deliver completely custom in-product reports & dashboards to every enterprise customer they onboard.
+• Series A govtech adds analytics and reporting capabilities within their existing agent&#x2F;chat product.
+
+Reasons you’d love working with us:
+• Work with a small, focused, talented team on a highly technical product (by developers for developers).
+• Funded company in a big market, but still prelaunch with a team size <5
+• High level of product ownership with tight feedback loops: the products you build are shipped quickly and get used by real customers immediately. Our latest hire built our entire CLI product from 0 -> 1, and it was used in production by customers the day it shipped.
+
+We are growing the team to keep up with demand for new features that our customers are asking us for, while also preparing for launch. We're looking for someone that will make us better. We’re just getting started, and want you to bring your opinions, expertise, and experience to the table (not just execute on the ideas we already have).
+
+Contact: rishi@quill.co
+
+======================================================================
+
+=== ID: 49527374 | Thread: sep_2026 ===
+Header: Jawa.gg | Software Engineer | Boulder, CO or remote | Contract or Full Time
+Jawa.gg | Software Engineer | Boulder, CO or remote | Contract or Full Time
+
+Jawa is the marketplace for gamers - think gaming PCs, GPUs, consoles, and the like. We're a small, VC-funded team with a big business, and have been operating since 2021.
+
+We're are looking for full-stack software engineers to build and maintain our peer-to-peer marketplace. The tech stack is mostly Typescript, with Next.js, Node.js, Postgres, and other fairly standard web-tools &#x2F; infra.
+
+Learn more at  https:&#x2F;&#x2F;jawagg.notion.site&#x2F;Full-Stack-Software-Engineer-412c6489169d42f3bf0dad9de9209734
+
+======================================================================
+
+=== ID: 49227265 | Thread: aug_2026 ===
+Header: Dave Evans | Founding Engineer | Remote | Full-time | $170k-$210k + meaningful equity
+Dave Evans | Founding Engineer | Remote | Full-time | $170k-$210k + meaningful equity
+
+I’m hiring the first senior engineering hire for an early-stage multi-agent product.
+
+This is for a senior backend&#x2F;platform builder who still likes shipping product, not just designing systems. The work is a mix of orchestration, integrations, reliability, auditability, and getting useful workflow automation into users’ hands quickly.
+
+You’d work directly with me to turn a strong technical direction into a dependable product.
+
+Best fit: 6+ years shipping end-to-end, strong backend judgement, product range, low-ceremony style, and comfort with ambiguity.
+
+Helpful if you care about retries, tool boundaries, observability, and human override in AI systems.
+
+Comp is in the $170k-$210k base range with meaningful equity.
+
+If that sounds like your lane, email dave@evanlee.co.uk with a short note and links to shipped work.
+
+======================================================================
+
+=== ID: 49166151 | Thread: aug_2026 ===
+Header: Senior Python Backend Engineer | REMOTE (EMEA&#x2F;APAC)
+Senior Python Backend Engineer | REMOTE (EMEA&#x2F;APAC)
+
+We're looking for Python backend engineers to work on a trustless supercluster of performance-proofed GPU-enabled sandboxed docker container runners controlled by truly decentralized algorithms (not just PAXOS or RAFT).
+
+Wow, that was a mouthful...
+
+If you found it interesting, join Reef Technologies and tackle complex technical challenges like this on your own terms:
+
+- Contribute from wherever you like; we are fully remote
+
+- Set your own time commitment, as long as it's at least 30h per week
+
+- See how we work in our handbook: github.com&#x2F;reef-technologies&#x2F;handbook
+
+- Influence the way we operate through our Sociocracy 3.0 decision-making process
+
+Salary on a B2B contract:
+
+- 45-70 USD or 180-280 PLN per hour
+
+- Flexible work schedule (as measured with a time tracker)
+
+- We automatically adjust rates based on inflation twice a year
+
+We're looking for someone with 5+ years of programming experience, including at least a year with Python (including open-source and significant personal projects).
+
+So, what do you think? You don't even need a CV; just go to  https:&#x2F;&#x2F;careers.reef.pl&#x2F;?utm_source=hackernews  and shoot a few quick commands to apply.
+
+Edit: If you applied and haven't heard back, please check the spam folder of the email associated with the GitHub account you used to apply — our replies sometimes end up there.
+
+======================================================================
+
+=== ID: 49160915 | Thread: aug_2026 ===
+Header: Railway | Infra Eng-Storage, Product Eng (full-stack), Infra Eng-Observability, Brand Designer - Web, Infra Eng-General| REMOTE (Worldwide) |  https:&#x2F;&#x2F;railway.com&#x2F;careers
+Railway | Infra Eng-Storage, Product Eng (full-stack), Infra Eng-Observability, Brand Designer - Web, Infra Eng-General| REMOTE (Worldwide) |  https:&#x2F;&#x2F;railway.com&#x2F;careers 
+
+Do you feel scared and alone when opening the AWS console? Do you wish you could just tell Claude to manage your infra, and it would just work? Do you dream of a future where software is abundant and developers and normies alike are free to build their wildest dreams?
+
+We're Railway, and we think infrastructure can be better. We're working at the forefront distributed systems engineering, interface design, and agentic computing to bring about the infrastructure platform we've always wanted. So far we've built out a platform loved by 3M+ users and we're just getting started.
+
+Fair warning! The problems are complex: racking and stacking servers, home-rolled hypervisors, cut-above container orchestration, over&#x2F;under&#x2F;whateverlay networks, virtio device drivers, edge proxies, IAM that doesn't suck, kitchen sinks - we need to build it and we're looking for likeminded individuals who think this stuff is fun.
+
+Five open roles (apply below!):
+
++Senior Infra Engineer: Storage
+-Apply here: ( https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;Railway&#x2F;25d8444a-47dc-4084-ae56-29a0f0b19b74?utm_source=DayMzWzJ0P )
+
++Product Engineer (full-stack): 
+-Apply here: ( https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;Railway&#x2F;6ddcfe47-6cce-469b-ba6d-4f0e83440c9d?utm_source=DayMzWzJ0P )
+
++Brand Designer - Web:
+-Apply here: ( https:&#x2F;&#x2F;railway.com&#x2F;careers&#x2F;brand-designer-web )
+
++Senior Infra Engineer: Observability
+-Apply here: ( https:&#x2F;&#x2F;railway.com&#x2F;careers&#x2F;platform-engineer-instrumentation )
+
++Infrastructure Engineer(Platform): 
+-Apply here:( https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;Railway&#x2F;b8072f95-043f-404d-a313-f0bdf8dd3c81?utm_source=DayMzWzJ0P )
+
+======================================================================
+

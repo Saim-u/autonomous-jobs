@@ -1,0 +1,268 @@
+============================================================
+ID: 50357754
+Header: Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly |  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities
+============================================================
+Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly |  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities 
+
+Cocient is a human data and AI training platform. We contract experienced professionals to produce evals and training data for AI labs: writing hard, realistic problems in your field, grading model answers, and pinning down where a model's reasoning breaks.
+
+Pay by field, depending on experience: software engineering $70-150&#x2F;hr, data science $60-130&#x2F;hr, finance $90-180&#x2F;hr, medicine $120-250&#x2F;hr, law $80-200&#x2F;hr, science and engineering $50-120&#x2F;hr.
+
+Independent contractor, flexible hours. To apply, sign up, upload your resume and take a short AI-led interview about your experience (computer with camera and mic):  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities?utm_source=hackernews&utm_campaign=whoishiring-2026-11 
+
+Please apply through the link above; we don't accept applications by email.
+
+============================================================
+ID: 50356058
+Header: Estuary | US-Based &#x2F; Remote | Full-time –  https:&#x2F;&#x2F;estuary.dev&#x2F;
+============================================================
+Estuary | US-Based &#x2F; Remote | Full-time –  https:&#x2F;&#x2F;estuary.dev&#x2F; 
+
+Estuary is a VC-backed, post–Series A startup powering real-time data replication and transform — from sub-second CDC replication to terabyte-scale OLAP data flows. We’re open-source, developer-first, and focused on making data movement radically simpler across both our Platform and Applications layers.
+
+We’re hiring for:
+
+Head of Engineering — Own the engineering function end-to-end as a partner to our founder CTO: strategy, people, delivery, and operations across a compact but high-leverage team. You’ll grow the leaders already running our teams, set technical strategy jointly with the CTO, and be accountable for what engineering ships and what it costs.
+
+Senior Systems Engineer (Control & Data Plane) — Build the high-performance backbone of our platform: the orchestration, distributed state, and stream transport that keep pipelines at sub-second latency under massive throughput. You’ll work primarily in Rust on fault tolerance, consensus, and networking, and help set the bar for correctness and performance across the team.
+
+Product Manager — Own product areas end-to-end, working closely with engineering and design to shape the roadmap and deliver a great developer experience. Engage with users, translate real-world use cases into product decisions, and help define how modern data infrastructure should feel to build with.
+
+Head of Product Marketing — Lead product marketing as we bring real-time, agent-ready data pipelines to technical buyers, partnering closely with our Head of Marketing, Developer Relations, and the founders. Own positioning, messaging, launches, and competitive narrative, turning what our engineers ship into stories data teams actually care about.
+
+Solutions Engineer — Partner with sales and customers from the first technical call through production, running discovery, demos, and proofs of concept for data engineering and platform teams. You’ll design CDC, streaming, and batch pipelines on Estuary, solve real integration problems hands-on, and feed what you learn back to Product and Engineering.
+
+Customer Success Manager — Own the post-sale relationship for our data engineering and platform customers as our first CS hire. You’ll build onboarding, account health monitoring, and the expansion playbook from scratch while staying technical enough to resolve most issues yourself.
+
+Senior Compliance Engineer — Own our GDPR and PCI DSS programs while keeping our audited SOC 2 and HIPAA programs running smoothly, alongside hands-on ownership of identity, endpoint, and SaaS estate management. This is a governance-first role for someone who has run a compliance program end-to-end, not just contributed to one.
+
+What we’re looking for: People who care about building reliable, maintainable systems and processes and enjoy working with complex APIs, data flows, or customer relationships. We value curiosity, clear communication, and a willingness to learn.
+
+Bonus points for experience with CDC tools, open source contributions, or fast-paced startups.
+
+To apply: Email your resume to careers@estuary.dev
+
+============================================================
+ID: 50353951
+Header: ThreatMark | Security, Machine Learning | REMOTE(World) &#x2F; Brno, Czech Republic | Equity
+============================================================
+ThreatMark | Security, Machine Learning | REMOTE(World) &#x2F; Brno, Czech Republic | Equity
+
+ThreatMark protects >60M end users from finacial fraud and saves > $1.2M every day in losses.
+
+We are working with banks in EU and US to protect their end users.
+
+We develop large-behavioral models that recognizes returning users by their mouse movements, keystroke timings and sensoric data (accelerometer, gyroscope).
+
+We detect cyberthreats (e.g. malware, phishing, scraping) by exploiting browsers&#x2F;sandboxes of devices.
+
+We manage ~PB scale of data and provide realtime scoring in milliseconds driving authentication&#x2F;authorization flow (2nd factor).
+
+Stack: [python, typescript, rust], [redis, postgresql], [aws, terraform] ...
+
+We are looking for exceptional engineers to build with us and be part of the success:
+
+- Backend Engineer [rust, python] - low-latency stream processing engine, rewrite python microservices to rust, build new detection features
+
+- DevOps Engineer (IaaC in AWS)
+
+- DevSecOps Engineer
+
+- AI Tech Lead (loops & graphs guru, real ML background)
+
+- Security Researcher&#x2F;Engineer
+
+- Product Manager [USA]
+
+- Fraud Detection Specialist
+
+- Partner Manager
+
+If you are interested, please email us @ career@threatmark.com with subject "HN Who's Hiring"
+
+If you don't find the right role here or at  https:&#x2F;&#x2F;www.threatmark.com&#x2F;careers&#x2F; , write us anyway if you believe you can be good fit :)
+
+Krystof Hilar, Co-Founder & CTO
+
+============================================================
+ID: 50350077
+Header: PlantingSpace | Full-time | Remote (EU time zone) + Quarterly Meet-ups |  https:&#x2F;&#x2F;planting.space
+============================================================
+PlantingSpace | Full-time | Remote (EU time zone) + Quarterly Meet-ups |  https:&#x2F;&#x2F;planting.space 
+
+We're building a system that represents domain knowledge as modular probabilistic models — making analysis rigorous and transparent. Users can connect these models flexibly into larger structures. The system enforces consistency across them, and propagates uncertainty through each step. Our first applications are in finance and scientific research, with use cases ranging from equity valuation and distress monitoring, to particle physics.
+
+We're hiring for the following openings:
+
+* Technical Project Manager
+
+* Backend Software Engineer
+
+* Analytic Learning Algorithm Researcher
+
+* Product Managers and Business Development
+
+* Domain Experts - Valuation, Quantitative Default-Probability, or Interest Rate Prediction Models: to collaborate on use cases, from opportunity validation through production
+
+Find out more, and apply at:  https:&#x2F;&#x2F;planting.space&#x2F;joinus&#x2F;
+
+============================================================
+ID: 50349615
+Header: UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits
+============================================================
+UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits
+
+We're building a marketplace where local ISPs connect schools and health centers to the internet, prove it via telemetry, and get access to discounted backhaul, IP transit and compute from large infracos.
+
+Currently in pilots in Mexico, Kenya, South Africa, Malawi.
+
+Looking for 1 dev to join a small tech team (3 people) working on this protocol and marketplace, which sits on top of a larger tech team of 30 people at UNICEF Digital Inclusion. Not your typical UN job or culture.
+
+ https:&#x2F;&#x2F;jobs.unicef.org&#x2F;en-us&#x2F;job&#x2F;596538&#x2F;consultancy-connectivity-credits-backend-software-engineering-consultantdigital-impact-divisiongeneva-ch6-months-remote 
+
+The rest of the team are in Barcelona&#x2F;Geneva, but this role is remote. 6 month contract to start, with the aim to continue long term.
+
+============================================================
+ID: 50344773
+Header: yeet | Chicago, IL &#x2F; Remote | Full-Time
+============================================================
+yeet | Chicago, IL &#x2F; Remote | Full-Time
+
+Building a dynamic runtime on top of the Linux BPF sub-system. Looking for extremely talented &#x2F; passionate product managers with a deep interest in Linux internals, Distributed Systems, Dev Tools, Great Developer Experiences and Systems programming.
+
+Feel free to tell us all about your favorite GNU core utilities &#x2F; Linux system calls &#x2F; kernel sub-systems at: work [at] yeet.cx
+
+You can visit us at  https:&#x2F;&#x2F;yeet.cx&#x2F; 
+
+For more jobs check out  https:&#x2F;&#x2F;yeet.cx&#x2F;careers
+
+============================================================
+ID: 50343048
+Header: Rootly |  https:&#x2F;&#x2F;rootly.com&#x2F;  | engineering, GTM, product, sales | SF Bay, Toronto, APAC, Remote
+============================================================
+Rootly |  https:&#x2F;&#x2F;rootly.com&#x2F;  | engineering, GTM, product, sales | SF Bay, Toronto, APAC, Remote
+On-call, incident response, and AI SRE. Trusted by leading companies like NVIDIA, Dropbox, Canva, Figma, and more.
+
+Hiring across engineering, product, GTM, and sales  https:&#x2F;&#x2F;rootly.com&#x2F;careers
+
+============================================================
+ID: 50342723
+Header: Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity
+============================================================
+Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity
+
+Hey folks, Fly.io is a developer-focused public cloud. We are currently hiring for three roles:
+
+* Networking Engineer: Proxy and Corrosion -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;networking-engineer&#x2F; 
+
+* Infrastructure Operations Engineer -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;infra-engineer&#x2F; 
+
+* Fullstack Engineer -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;fullstack-engineer&#x2F; 
+
+Here's how we hire:  https:&#x2F;&#x2F;docs.fly.io&#x2F;hiring
+
+============================================================
+ID: 50341745
+Header: DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, except where specific locations are noted.
+============================================================
+DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, except where specific locations are noted.
+
+Senior Web Security Engineer, Browser Platform -
+ https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;a447e823-fd8f-438f-909 ...
+
+Senior Backend Engineer -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;53022b02-da3d-4fda-8273-c897d27ed50d?utm_source=1DKZJgG9d9 
+
+Staff Data Scientist -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;9c381171-f346-4d7a-876a-509fe046760f?utm_source=1DKZJgG9d9 
+
+Senior Data Scientist -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;a447e823-fd8f-438f-909e-db1f6ced8c97?utm_source=1DKZJgG9d9 
+
+Director, Paid Marketing (Subscriptions) - (Remote within USA) -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;f8570953-8ea3-4955-bfbf-dd67a56df5f5?utm_source=1DKZJgG9d9 
+
+Senior Product Partnerships Manager (Remote within USA or Canada) -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;dc1027ae-8f6a-44eb-b116-f945d2f95fad?utm_source=1DKZJgG9d9 
+
+Senior C++ Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;af93b075-d60a-4686-abeb-5949206d2f53?utm_source=1DKZJgG9d9 
+
+Senior Privacy Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;80797cf4-64b2-4e94-9d87-6f2ecc45c862?utm_source=1DKZJgG9d9 
+
+Senior Web Compatibility Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;d02d7598-141b-4a84-bdf6-46677da89b08?utm_source=1DKZJgG9d9 
+
+and MORE:  https:&#x2F;&#x2F;duckduckgo.com&#x2F;hiring
+
+============================================================
+ID: 50340434
+Header: Voluntas | Remote | Full Time | Software Engineer
+============================================================
+Voluntas | Remote | Full Time | Software Engineer
+
+Voluntas is a trading firm written 100% in Rust. We run systematic strategies, currently specializing in prediction markets, looking to expand our systems more broadly.
+
+We're looking for someone passionate about data collection, clean abstractions, and processing trillions of rows of data. We care about the quality of the code we write, and we prioritize time for our engineers to properly build their systems, instead of pressuring them to churn out AI generated code.
+
+If you're interested, send an email to jobs@voluntas.io with a little bit about yourself. We'll respond with a link to our engineering challenge (in Rust).
+
+============================================================
+ID: 50339750
+Header: Stream | Multiple Positions | Amsterdam (NL), Skopje (North Macedonia) | Boulder, CO (US) | Toronto (Canada)) | Remote possible | Full Time | Visa Sponsorship |  https:&#x2F;&#x2F;getstream.io
+============================================================
+Stream | Multiple Positions | Amsterdam (NL), Skopje (North Macedonia) | Boulder, CO (US) | Toronto (Canada)) | Remote possible | Full Time | Visa Sponsorship |  https:&#x2F;&#x2F;getstream.io 
+
+Stream powers Chat, Video, AI Moderation, and Activity Feeds for billions of global end users across thousands of different apps.
+
+We're constantly hiring backend engineers, but I wanted to take this opportunity to tout my own hire because I'm hoping you'll come work with me... I'm pavlov on HN, been here for nearly two decades, and working in realtime media for a good while longer. Now I run the Video team at Stream and I'm looking for a Staff Engineer. You'd report to me with a direct line to our CTO. Check out the details:
+
+ https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;stream&#x2F;82b37457-3d54-4f7a-8a0e-ae52c0b67362?utm_source=5rrpvObp3r 
+
+You'd own the media plane of Stream Video. It's a modern stack: SFU in Go, cascading to handle very large audiences, ingest and recording fleets, global multi-cloud edge. Video is fundamentally different from request-based services, which means this is not just a seat in Stream's shared infra team, but a genuine Staff role with its own roadmap defined by you. You can email me directly at pauli.ojala@getstream.io, happy to connect and tell you more.
+
+Full-time role, hybrid with 3 days a week in our Amsterdam office, or remote from anywhere in the EU. Visa sponsorship for the Netherlands.
+
+Also hiring:
+Staff Software Engineer, Infrastructure (Amsterdam),
+Staff Software Engineer, Backend (Amsterdam),
+Senior Fullstack Engineer, Moderation (Toronto).
+
+See all roles:  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;stream?utm_source=5rrpvObp3r
+
+============================================================
+ID: 50339735
+Header: Namespace | San Francisco, CA &#x2F; New York, NY &#x2F; Zurich, Switzerland &#x2F; Remote | Full-time | REMOTE or HYBRID |  https:&#x2F;&#x2F;namespace.so
+============================================================
+Namespace | San Francisco, CA &#x2F; New York, NY &#x2F; Zurich, Switzerland &#x2F; Remote | Full-time | REMOTE or HYBRID |  https:&#x2F;&#x2F;namespace.so 
+
+Namespace is a vertically integrated infrastructure stack for software development. We build everything ourselves, from the server racks to the hypervisor and scheduler, and we run it globally.
+
+Teams at SpaceXAI, Ramp, Sierra, Fal, Vanta, Framer, ElevenLabs, and many others build their software on Namespace today.
+Open roles (all full-time, global, remote & hybrid):
+
+Customer-Facing Software Engineer
+
+Product Engineer
+
+Infrastructure Software Engineer
+
+Security Engineer
+
+DevOps Engineer
+
+Engineering Lead
+
+ Details and applications:   https:&#x2F;&#x2F;namespace.so&#x2F;careers
+
+============================================================
+ID: 50338732
+Header: Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000&#x2F;month (full-time) |  https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops
+============================================================
+Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000&#x2F;month (full-time) |  https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops 
+
+Hi HN, I'm Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we're a self-funded, profitable team of four building privacy-first analytics.
+
+Privacy is why we run our own bare-metal servers instead of the cloud. We're preparing for a LOT more traffic, and you'll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer.
+
+Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool.
+
+You can apply from your terminal:
+
+    curl https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops.md
+  
+[1]  https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277
+

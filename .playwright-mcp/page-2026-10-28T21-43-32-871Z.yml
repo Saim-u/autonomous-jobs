@@ -1,0 +1,361 @@
+- generic [active] [ref=f35e1]:
+  - link "Skip to main content" [ref=f35e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f35e3]:
+    - navigation "Primary" [ref=f35e4]:
+      - link "LinkedIn" [ref=f35e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+      - generic [ref=f35e8]:
+        - button "Jobs" [ref=f35e10] [cursor=pointer]
+        - tabpanel "Jobs" [ref=f35e12]:
+          - search [ref=f35e13]:
+            - generic [ref=f35e14]:
+              - combobox "Search job titles or companies" [ref=f35e15]: Full Stack Developer AI & Automation
+              - button "Clear text" [ref=f35e16] [cursor=pointer]
+            - generic [ref=f35e18]:
+              - combobox "Location" [ref=f35e19]: Wah Cantonment
+              - button "Clear text" [ref=f35e20] [cursor=pointer]
+            - button "Search" [ref=f35e22] [cursor=pointer]
+        - status [ref=f35e23]
+      - generic [ref=f35e24]:
+        - link "Sign in" [ref=f35e25] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4472902392&trk=public_jobs_nav-header-signin
+        - link "Join now" [ref=f35e26] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F4472902392&trk=public_jobs_nav-header-join
+  - main [ref=f35e27]:
+    - generic [ref=f35e29]:
+      - generic [ref=f35e31]:
+        - link [ref=f35e32] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/we-are-revolution-limited?trk=public_jobs_topcard_logo
+          - img "We Are Revolution" [ref=f35e33]
+        - generic [ref=f35e35]:
+          - heading "Full Stack Developer AI & Automation" [level=1] [ref=f35e36]
+          - heading [level=4] [ref=f35e37]:
+            - generic [ref=f35e38]:
+              - link "We Are Revolution" [ref=f35e40] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/we-are-revolution-limited?trk=public_jobs_topcard-org-name
+              - text: · Pakistan
+            - generic [ref=f35e41]:
+              - text: 2 weeks ago
+              - figure "Over 200 applicants" [ref=f35e42]: · Over 200 applicants
+            - link "See who We Are Revolution has hired for this role" [ref=f35e44] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D102863068%26title%3DFull%2BStack%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f35e47]: See who We Are Revolution has hired for this role
+          - generic [ref=f35e48]:
+            - button "Apply" [ref=f35e49] [cursor=pointer]
+            - button "Save" [ref=f35e50] [cursor=pointer]
+        - button "Open menu" [ref=f35e53] [cursor=pointer]
+        - generic [ref=f35e55]:
+          - heading "Use AI to assess how you fit" [level=3] [ref=f35e56]
+          - paragraph [ref=f35e57]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f35e58]:
+            - button "AI powered advice" [ref=f35e59] [cursor=pointer]
+            - button "Am I a good fit for this job?" [ref=f35e61] [cursor=pointer]
+            - button "Tailor my resume" [ref=f35e64] [cursor=pointer]
+      - generic [ref=f35e67]:
+        - generic [ref=f35e69]:
+          - generic [ref=f35e71]:
+            - generic [ref=f35e72]:
+              - paragraph [ref=f35e73]: Full Stack Developer (AI & Automation) |
+              - paragraph [ref=f35e74]: We Are Revolution
+              - paragraph [ref=f35e75]: "📍 Location: Remote (India or Pakistan)"
+              - paragraph [ref=f35e76]: "💼 Experience: 3-5 years"
+              - paragraph [ref=f35e77]: "🎓 Education: Strong CS / Engineering background preferred"
+              - paragraph [ref=f35e78]: 💰 $2000 a month - we pay for capability, not just years on paper
+              - paragraph [ref=f35e79]
+              - paragraph [ref=f35e80]: THE OPPORTUNITY
+              - paragraph [ref=f35e81]: We Are Revolution is a specialist search and selection recruitment firm serving clients across the USA and Europe, built on data-backed, systematic processes.
+              - paragraph [ref=f35e82]
+              - paragraph [ref=f35e83]: "You'll work directly with our Head of Engineering to own the full stack and technical architecture of our internal systems end-to-end. This is a broad, high-trust role: we'd rather pay more for someone who's genuinely strong across the stack than go cheap and end up boxed in by narrow skills. You should be equally comfortable building frontend interfaces, writing backend code, designing automations, and orchestrating AI agents - because you may be the only technical person in the building on any given day, and things need to keep running. This is a full stack + automation heavy role (roughly 90% hands-on build, 10% coordinating priorities) for someone who takes ownership, figures things out independently, and uses AI as a core part of how they plan and execute work."
+              - paragraph [ref=f35e84]
+              - paragraph [ref=f35e85]: WHAT YOU'LL DO
+              - paragraph [ref=f35e86]: + Build and maintain full stack applications and integrations - design and ship intuitive frontend interfaces alongside APIs and services connecting our internal tools, CRM, and outreach/calling platforms
+              - paragraph [ref=f35e87]: + Consolidate and structure recruitment data - bring together candidate, client, and activity data into clean, reliable, single-source-of-truth systems
+              - paragraph [ref=f35e88]: + Design and own automation workflows - build and maintain Python and n8n workflows that automate recruitment operations, data syncing, and reporting
+              - paragraph [ref=f35e89]: + Build AI agents and MCP-based workflows - use Claude (and Claude Code) to design agentic workflows that automate research, data processing, and repetitive operational work
+              - paragraph [ref=f35e90]: + Deploy, monitor, and optimize - own deployment and uptime for web applications and backend services; track API usage, costs, latency, and errors
+              - paragraph [ref=f35e91]: + Be the technical backbone - hold institutional technical knowledge across the stack so the business isn't dependent on any single system or vendor
+              - paragraph [ref=f35e92]
+              - paragraph [ref=f35e93]: WHO WE'RE LOOKING FOR
+              - paragraph [ref=f35e94]: + 3-5 years building and shipping production full stack applications (React/Next.js and Python FastAPI preferred); solid grasp of web UI, data structures, APIs, and clean architecture
+              - paragraph [ref=f35e95]: + Hands-on experience with Backend-as-a-Service platforms - Supabase, Firebase, or similar
+              - paragraph [ref=f35e96]: + Hands-on experience with API hosting/deployment platforms - Render, Railway, Heroku, or similar
+              - paragraph [ref=f35e97]: + Proven, hands-on experience building workflows in n8n (or a comparable automation tool)
+              - paragraph [ref=f35e98]: + Proficiency using Claude (or Claude Code) for planning and execution - you prompt effectively and evaluate AI-generated output critically
+              - paragraph [ref=f35e99]: "+ Good to have: Salesforce experience - a strong plus, but not required; you'll be expected to pick it up quickly if you haven't used it"
+              - paragraph [ref=f35e100]: "+ Good to have: Understanding of the recruitment space - a strong plus, but not required; you'll be expected to pick it up quickly if you haven't used it"
+              - paragraph [ref=f35e101]
+              - paragraph [ref=f35e102]: CULTURE FIT (NON-NEGOTIABLES)
+              - paragraph [ref=f35e103]: + Broad and self-sufficient - you can move seamlessly across frontend, backend, automation, and AI tooling without waiting on someone else
+              - paragraph [ref=f35e104]: + Builder mindset - you figure things out independently
+              - paragraph [ref=f35e105]: + Fast learner - comfortable with ambiguity, ships iteratively
+              - paragraph [ref=f35e106]: + Detail-oriented - cares about data quality, edge cases, and clean implementations
+              - paragraph [ref=f35e107]: + Trusted to hold the fort - reliable enough to keep critical systems running through transitions
+              - paragraph [ref=f35e108]: + Proactive communicator - flags blockers early, keeps the team updated
+              - paragraph [ref=f35e109]
+              - paragraph [ref=f35e110]: WHY JOIN US
+              - paragraph [ref=f35e111]: ✅ Real ownership on a small, close-knit team
+              - paragraph [ref=f35e112]: ✅ Broad technical exposure - frontend, backend, automation, AI agents, and Salesforce
+              - paragraph [ref=f35e113]: ✅ International exposure - clients across the USA and Europe, async global team
+              - paragraph [ref=f35e114]: ✅ Learn directly from a founder with two decades in recruitment and business-building
+              - paragraph [ref=f35e115]: ✅ Competitive pay for the right person - we'd rather invest in one strong, well-rounded technologist than several narrow specialists
+              - paragraph [ref=f35e116]
+              - paragraph [ref=f35e117]: HOW TO APPLY
+              - paragraph [ref=f35e118]: If you're a builder with 3-5 years of full stack experience, real hands-on automation and AI-tooling chops, and the ability to figure things out independently - we'd love to talk. Please apply above using your resume/GitHub/portfolio along with a brief note on what excites you about this role.
+            - button "Show more" [ref=f35e119] [cursor=pointer]
+          - list [ref=f35e121]:
+            - listitem [ref=f35e122]:
+              - heading "Seniority level" [level=3] [ref=f35e123]
+              - text: Mid-Senior level
+            - listitem [ref=f35e124]:
+              - heading "Employment type" [level=3] [ref=f35e125]
+              - text: Full-time
+            - listitem [ref=f35e126]:
+              - heading "Industries" [level=3] [ref=f35e127]
+              - text: Staffing and Recruiting
+        - generic [ref=f35e132]:
+          - paragraph [ref=f35e133]: Referrals increase your chances of interviewing at We Are Revolution by 2x
+          - link "See who you know" [ref=f35e134] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D102863068&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+      - generic [ref=f35e136]:
+        - generic [ref=f35e137]: Get notified when a new job is posted.
+        - generic [ref=f35e140]:
+          - button "Set alert" [ref=f35e141]
+          - generic [ref=f35e142]: Set alert
+      - generic [ref=f35e143]:
+        - heading "Similar jobs" [level=2] [ref=f35e144]
+        - generic [ref=f35e146]:
+          - list [ref=f35e147]:
+            - listitem [ref=f35e148]:
+              - generic [ref=f35e149]:
+                - link "Full Stack Engineer" [ref=f35e150] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-engineer-at-we-are-revolution-4481422146?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=udn3pPnlno1glErQKS0DNQ%3D%3D
+                - generic [ref=f35e152]:
+                  - heading "Full Stack Engineer" [level=3] [ref=f35e153]
+                  - heading [level=4] [ref=f35e154]:
+                    - link "We Are Revolution" [ref=f35e155] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/we-are-revolution-limited?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e156]:
+                    - generic [ref=f35e157]: Pakistan
+                    - time [ref=f35e158]: 2 days ago
+            - listitem [ref=f35e159]:
+              - generic [ref=f35e160]:
+                - link "Full Stack Product Engineer" [ref=f35e161] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-product-engineer-at-ajaia-ai-consultancy-4440048926?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=wCB%2F8n8DoGxsvZRm5v7bbA%3D%3D
+                - generic [ref=f35e163]:
+                  - heading "Full Stack Product Engineer" [level=3] [ref=f35e164]
+                  - heading [level=4] [ref=f35e165]:
+                    - link "Ajaia | AI Consultancy" [ref=f35e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/ajaia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e167]:
+                    - generic [ref=f35e168]: Pakistan
+                    - time [ref=f35e169]: 4 months ago
+            - listitem [ref=f35e170]:
+              - generic [ref=f35e171]:
+                - link "Senior Full-Stack Developer, AI Agents (React/TypeScript/Express/Puppeteer)" [ref=f35e172] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/senior-full-stack-developer-ai-agents-react-typescript-express-puppeteer-at-businessmentor-com-4482768100?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=aRn9tTWk8CyHaicJa%2BwZAQ%3D%3D
+                - generic [ref=f35e174]:
+                  - heading "Senior Full-Stack Developer, AI Agents (React/TypeScript/Express/Puppeteer)" [level=3] [ref=f35e175]
+                  - heading [level=4] [ref=f35e176]:
+                    - link "BusinessMentor.com" [ref=f35e177] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/businessmentor-com?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e178]:
+                    - generic [ref=f35e179]: Pakistan
+                    - time [ref=f35e180]: 6 days ago
+            - listitem [ref=f35e181]:
+              - generic [ref=f35e182]:
+                - link "Full Stack Engineer" [ref=f35e183] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/full-stack-engineer-at-i-t-for-less-4483264425?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=ytzvd3NaQanChxEfX28YFw%3D%3D
+                - generic [ref=f35e185]:
+                  - heading "Full Stack Engineer" [level=3] [ref=f35e186]
+                  - heading [level=4] [ref=f35e187]:
+                    - link "I.T. For Less" [ref=f35e188] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/managed-it-services-providers?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e189]:
+                    - generic [ref=f35e190]: Pakistan
+                    - time [ref=f35e191]: 1 day ago
+            - listitem [ref=f35e192]:
+              - generic [ref=f35e193]:
+                - link "Agentic Software Engineer (Google Antigravity) - Remote - Pakistan" [ref=f35e194] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-pakistan-at-fullstack-4475049119?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=WXCdDu87pFd3KC0%2Bte52NQ%3D%3D
+                - generic [ref=f35e196]:
+                  - heading "Agentic Software Engineer (Google Antigravity) - Remote - Pakistan" [level=3] [ref=f35e197]
+                  - heading [level=4] [ref=f35e198]:
+                    - link "FullStack" [ref=f35e199] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/fullstack-labs?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e200]:
+                    - generic [ref=f35e201]: Pakistan
+                    - time [ref=f35e202]: 4 days ago
+            - listitem [ref=f35e203]:
+              - generic [ref=f35e204]:
+                - link "Senior AI & Full-Stack Engineer - DevOps & Technical Leadership" [ref=f35e205] [cursor=pointer]:
+                  - /url: https://pk.linkedin.com/jobs/view/senior-ai-full-stack-engineer-devops-technical-leadership-at-m365consult-4479966748?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=Hnr%2F44BGDMjD5vqc58leDQ%3D%3D
+                - generic [ref=f35e207]:
+                  - heading "Senior AI & Full-Stack Engineer - DevOps & Technical Leadership" [level=3] [ref=f35e208]
+                  - heading [level=4] [ref=f35e209]:
+                    - link "M365Consult" [ref=f35e210] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/company/m365consult?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                  - generic [ref=f35e211]:
+                    - generic [ref=f35e212]: Islamabad, Islāmābād, Pakistan
+                    - time [ref=f35e213]: 1 week ago
+          - button "Show more jobs like this" [ref=f35e214] [cursor=pointer]
+    - generic [ref=f35e216]:
+      - generic [ref=f35e217]:
+        - heading "People also viewed" [level=2] [ref=f35e218]
+        - list [ref=f35e220]:
+          - listitem [ref=f35e221]:
+            - generic [ref=f35e222]:
+              - link "Full Stack Engineer (Python + React)" [ref=f35e223] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/full-stack-engineer-python-%2B-react-at-systems-limited-4480972244?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=GEjSELwh8IgMW0DAl9iGgw%3D%3D
+              - generic [ref=f35e225]:
+                - heading "Full Stack Engineer (Python + React)" [level=3] [ref=f35e226]
+                - paragraph [ref=f35e227]:
+                  - link "Systems Limited" [ref=f35e228] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/systems-limited?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e229]:
+                  - generic [ref=f35e230]: Punjab, Pakistan
+                  - time [ref=f35e231]: 1 week ago
+          - listitem [ref=f35e232]:
+            - generic [ref=f35e233]:
+              - link "Full Stack Software Engineer Mid Senior Level" [ref=f35e234] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/full-stack-software-engineer-mid-senior-level-at-iqansoft-4483352029?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=%2BSEHZ1RVuLOKXJZeUDm7lg%3D%3D
+              - generic [ref=f35e236]:
+                - heading "Full Stack Software Engineer Mid Senior Level" [level=3] [ref=f35e237]
+                - paragraph [ref=f35e238]:
+                  - link "iQansoft" [ref=f35e239] [cursor=pointer]:
+                    - /url: https://ca.linkedin.com/company/iqansoft?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e240]:
+                  - generic [ref=f35e241]: Islamabad, Islāmābād, Pakistan
+                  - generic [ref=f35e242]: PKR 200,000 - PKR 400,000
+                  - time [ref=f35e243]: 4 weeks ago
+          - listitem [ref=f35e244]:
+            - generic [ref=f35e245]:
+              - link "AI Engineer (LLM & Agentic AI)" [ref=f35e246] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/ai-engineer-llm-agentic-ai-at-edge-4477706273?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=Zq%2B%2BBdRFdPAJOfNMmwwLzA%3D%3D
+              - generic [ref=f35e248]:
+                - heading "AI Engineer (LLM & Agentic AI)" [level=3] [ref=f35e249]
+                - paragraph [ref=f35e250]:
+                  - link "Edge" [ref=f35e251] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/onedgeco?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e252]:
+                  - generic [ref=f35e253]: Islamabad, Islāmābād, Pakistan
+                  - time [ref=f35e254]: 1 week ago
+          - listitem [ref=f35e255]:
+            - generic [ref=f35e256]:
+              - link "AI Platform Engineer Observability" [ref=f35e257] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/ai-platform-engineer-observability-at-nayatel-4481889336?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=A53P%2B5GfxzxxAKu%2FgCuS3Q%3D%3D
+              - generic [ref=f35e259]:
+                - heading "AI Platform Engineer Observability" [level=3] [ref=f35e260]
+                - paragraph [ref=f35e261]:
+                  - link "Nayatel" [ref=f35e262] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/nayatel?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e263]:
+                  - generic [ref=f35e264]: Islāmābād, Pakistan
+                  - time [ref=f35e265]: 1 day ago
+          - listitem [ref=f35e266]:
+            - link "Artificial Intelligence Engineer i23 Insurance Agency Pakistan 3 months ago" [ref=f35e267] [cursor=pointer]:
+              - /url: https://pk.linkedin.com/jobs/view/artificial-intelligence-engineer-4441709949?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=3%2B7sBA43mLWWXkKuGJSiEQ%3D%3D&trk=public_jobs_people-also-viewed
+              - generic [ref=f35e268]:
+                - heading "Artificial Intelligence Engineer" [level=3] [ref=f35e269]
+                - paragraph [ref=f35e270]: i23 Insurance Agency
+                - generic [ref=f35e271]:
+                  - generic [ref=f35e272]: Pakistan
+                  - time [ref=f35e273]: 3 months ago
+          - listitem [ref=f35e274]:
+            - generic [ref=f35e275]:
+              - link "Software Engineering Intern" [ref=f35e276] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/software-engineering-intern-at-genifem-4468074377?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=XwkJ1rcMNmrepp%2BCRYjWVA%3D%3D
+              - generic [ref=f35e278]:
+                - heading "Software Engineering Intern" [level=3] [ref=f35e279]
+                - paragraph [ref=f35e280]:
+                  - link "Genifem" [ref=f35e281] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/genifem?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e282]:
+                  - generic [ref=f35e283]: Islamabad, Islāmābād, Pakistan
+                  - time [ref=f35e284]: 1 month ago
+          - listitem [ref=f35e285]:
+            - generic [ref=f35e286]:
+              - link "Software Developer" [ref=f35e287] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/software-developer-at-contour-software-4483110281?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=tD1rGabwILqqmyTZhtExqQ%3D%3D
+              - generic [ref=f35e289]:
+                - heading "Software Developer" [level=3] [ref=f35e290]
+                - paragraph [ref=f35e291]:
+                  - link "Contour Software" [ref=f35e292] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/contoursoftware?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e293]:
+                  - generic [ref=f35e294]: Lahore, Punjab, Pakistan
+                  - time [ref=f35e295]: 5 days ago
+          - listitem [ref=f35e296]:
+            - generic [ref=f35e297]:
+              - link "Web Developer" [ref=f35e298] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/web-developer-at-hashtag-media-4444531574?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=v7vf4sQ0buK9z%2FKigTp2QQ%3D%3D
+              - generic [ref=f35e300]:
+                - heading "Web Developer" [level=3] [ref=f35e301]
+                - paragraph [ref=f35e302]:
+                  - link "Hashtag Media" [ref=f35e303] [cursor=pointer]:
+                    - /url: https://ae.linkedin.com/company/hashtagmediadotae?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e304]:
+                  - generic [ref=f35e305]: Islamabad, Islāmābād, Pakistan
+                  - time [ref=f35e306]: 3 months ago
+          - listitem [ref=f35e307]:
+            - generic [ref=f35e308]:
+              - link "Senior Software Engineer" [ref=f35e309] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/senior-software-engineer-at-proconz-marketing-solutions-smc-pvt-ltd-4482543272?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=lO7MwK8XGNBRTU%2B3c11jPA%3D%3D
+              - generic [ref=f35e311]:
+                - heading "Senior Software Engineer" [level=3] [ref=f35e312]
+                - paragraph [ref=f35e313]:
+                  - link "ProConz Marketing Solutions (SMC-Pvt) Ltd" [ref=f35e314] [cursor=pointer]:
+                    - /url: https://pk.linkedin.com/company/proconzmarketingsolutions?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e315]:
+                  - generic [ref=f35e316]: Islāmābād, Pakistan
+                  - time [ref=f35e317]: 41 minutes ago
+          - listitem [ref=f35e318]:
+            - generic [ref=f35e319]:
+              - link "Full Stack Developer" [ref=f35e320] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/jobs/view/full-stack-developer-at-ibex-4318354760?refId=yazEloI0OwO71kCO2bTXjg%3D%3D&trackingId=fHuuHR%2BCEr7omjgal%2B5JNQ%3D%3D
+              - generic [ref=f35e322]:
+                - heading "Full Stack Developer" [level=3] [ref=f35e323]
+                - paragraph [ref=f35e324]:
+                  - link "ibex" [ref=f35e325] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ibex-global?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                - generic [ref=f35e326]:
+                  - generic [ref=f35e327]: Karāchi, Sindh, Pakistan
+                  - time [ref=f35e328]: 2 days ago
+      - generic [ref=f35e331]:
+        - heading "Explore top content on LinkedIn" [level=2] [ref=f35e333]
+        - paragraph [ref=f35e334]: Find curated posts and insights for relevant topics all in one place.
+        - link "View top content" [ref=f35e335] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+  - contentinfo [ref=f35e336]:
+    - list [ref=f35e337]:
+      - generic [ref=f35e338]: LinkedIn
+      - generic [ref=f35e340]: © 2026
+      - listitem [ref=f35e341]:
+        - link "About" [ref=f35e342] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+      - listitem [ref=f35e343]:
+        - link "Accessibility" [ref=f35e344] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+      - listitem [ref=f35e345]:
+        - link "User Agreement" [ref=f35e346] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+      - listitem [ref=f35e347]:
+        - link "Privacy Policy" [ref=f35e348] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+      - listitem [ref=f35e349]:
+        - link "Cookie Policy" [ref=f35e350] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+      - listitem [ref=f35e351]:
+        - link "Copyright Policy" [ref=f35e352] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+      - listitem [ref=f35e353]:
+        - link "Brand Policy" [ref=f35e354] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+      - listitem [ref=f35e355]:
+        - link "Guest Controls" [ref=f35e356] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+      - listitem [ref=f35e357]:
+        - link "Community Guidelines" [ref=f35e358] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+      - listitem [ref=f35e359]:
+        - button "Language" [ref=f35e361]

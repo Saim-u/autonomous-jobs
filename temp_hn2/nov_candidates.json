@@ -1,0 +1,282 @@
+[
+  {
+    "id": "50357754",
+    "first_line": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly |  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly |  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities \n\nCocient is a human data and AI training platform. We contract experienced professionals to produce evals and training data for AI labs: writing hard, realistic problems in your field, grading model answers, and pinning down where a model's reasoning breaks.\n\nPay by field, depending on experience: software engineering $70-150&#x2F;hr, data science $60-130&#x2F;hr, finance $90-180&#x2F;hr, medicine $120-250&#x2F;hr, law $80-200&#x2F;hr, science and engineering $50-120&#x2F;hr.\n\nIndependent contractor, flexible hours. To apply, sign up, upload your resume and take a short AI-led interview about your experience (computer with camera and mic):  https:&#x2F;&#x2F;work.cocient.com&#x2F;opportunities?utm_source=hackernews&utm_campaign=whoishiring-2026-11 \n\nPlease apply through the link above; we don't accept applications by email."
+  },
+  {
+    "id": "50356058",
+    "first_line": "Estuary | US-Based &#x2F; Remote | Full-time \u2013  https:&#x2F;&#x2F;estuary.dev&#x2F;",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Estuary | US-Based &#x2F; Remote | Full-time \u2013  https:&#x2F;&#x2F;estuary.dev&#x2F; \n\nEstuary is a VC-backed, post\u2013Series A startup powering real-time data replication and transform \u2014 from sub-second CDC replication to terabyte-scale OLAP data flows. We\u2019re open-source, developer-first, and focused on making data movement radically simpler across both our Platform and Applications layers.\n\nWe\u2019re hiring for:\n\nHead of Engineering \u2014 Own the engineering function end-to-end as a partner to our founder CTO: strategy, people, delivery, and operations across a compact but high-leverage team. You\u2019ll grow the leaders already running our teams, set technical strategy jointly with the CTO, and be accountable for what engineering ships and what it costs.\n\nSenior Systems Engineer (Control & Data Plane) \u2014 Build the high-performance backbone of our platform: the orchestration, distributed state, and stream transport that keep pipelines at sub-second latency under massive throughput. You\u2019ll work primarily in Rust on fault tolerance, consensus, and networking, and help set the bar for correctness and performance across the team.\n\nProduct Manager \u2014 Own product areas end-to-end, working closely with engineering and design to shape the roadmap and deliver a great developer experience. Engage with users, translate real-world use cases into product decisions, and help define how modern data infrastructure should feel to build with.\n\nHead of Product Marketing \u2014 Lead product marketing as we bring real-time, agent-ready data pipelines to technical buyers, partnering closely with our Head of Marketing, Developer Relations, and the founders. Own positioning, messaging, launches, and competitive narrative, turning what our engineers ship into stories data teams actually care about.\n\nSolutions Engineer \u2014 Partner with sales and customers from the first technical call through production, running discovery, demos, and proofs of concept for data engineering and platform teams. You\u2019ll design CDC, streaming, and batch pipelines on Estuary, solve real integration problems hands-on, and feed what you learn back to Product and Engineering.\n\nCustomer Success Manager \u2014 Own the post-sale relationship for our data engineering and platform customers as our first CS hire. You\u2019ll build onboarding, account health monitoring, and the expansion playbook from scratch while staying technical enough to resolve most issues yourself.\n\nSenior Compliance Engineer \u2014 Own our GDPR and PCI DSS programs while keeping our audited SOC 2 and HIPAA programs running smoothly, alongside hands-on ownership of identity, endpoint, and SaaS estate management. This is a governance-first role for someone who has run a compliance program end-to-end, not just contributed to one.\n\nWhat we\u2019re looking for: People who care about building reliable, maintainable systems and processes and enjoy working with complex APIs, data flows, or customer relationships. We value curiosity, clear communication, and a willingness to learn.\n\nBonus points for experience with CDC tools, open source contributions, or fast-paced startups.\n\nTo apply: Email your resume to careers@estuary.dev"
+  },
+  {
+    "id": "50353980",
+    "first_line": "Location: Andaluc\u00eda, Spain (CET)",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Location: Andaluc\u00eda, Spain (CET)\nRemote: Yes \u2013 remote only\nWilling to relocate: No (EU citizen \u2013 no visa or work permit needed for EU employers)\nTechnologies: TypeScript, React, Next.js, Node.js, Fastify, React Native, PostgreSQL, Prisma, Supabase, Anthropic SDK (Claude), LLM pipelines, Vitest&#x2F;Jest, CI&#x2F;CD\nR\u00e9sum\u00e9&#x2F;CV:  https:&#x2F;&#x2F;saturnodev.netlify.app&#x2F;  \u00b7 linkedin.com&#x2F;in&#x2F;saturno-mangieri \u00b7 github.com&#x2F;theghost1980\nEmail: saturnob612 [at] gmail.com\n\nFull-stack engineer, 6+ years on 100% remote teams, focused on shipping LLM features to production.\n\nLast role: tech lead for AI call analysis at a US marketing agency. Took the MVP from design to validated delivery in 2 months: a Claude-based pipeline that turns a month of customer calls into coaching reports, with model-free quote verification (every quoted sentence is checked against the transcript, so no fabricated quote reaches a client), batch runs of up to 300 calls with live progress, and cost protection so no paid model response is ever lost.\n\nBefore that: product engineer on a crypto wallet with 10k+ users, where I shipped a swap widget that generated $10k+ in direct revenue in its first 5 months and set up the project's first testing&#x2F;CI environment.\n\nLooking for: full-time or contract roles in AI product engineering or full-stack. Available now. English C2, Spanish native."
+  },
+  {
+    "id": "50353951",
+    "first_line": "ThreatMark | Security, Machine Learning | REMOTE(World) &#x2F; Brno, Czech Republic | Equity",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "ThreatMark | Security, Machine Learning | REMOTE(World) &#x2F; Brno, Czech Republic | Equity\n\nThreatMark protects >60M end users from finacial fraud and saves > $1.2M every day in losses.\n\nWe are working with banks in EU and US to protect their end users.\n\nWe develop large-behavioral models that recognizes returning users by their mouse movements, keystroke timings and sensoric data (accelerometer, gyroscope).\n\nWe detect cyberthreats (e.g. malware, phishing, scraping) by exploiting browsers&#x2F;sandboxes of devices.\n\nWe manage ~PB scale of data and provide realtime scoring in milliseconds driving authentication&#x2F;authorization flow (2nd factor).\n\nStack: [python, typescript, rust], [redis, postgresql], [aws, terraform] ...\n\nWe are looking for exceptional engineers to build with us and be part of the success:\n\n- Backend Engineer [rust, python] - low-latency stream processing engine, rewrite python microservices to rust, build new detection features\n\n- DevOps Engineer (IaaC in AWS)\n\n- DevSecOps Engineer\n\n- AI Tech Lead (loops & graphs guru, real ML background)\n\n- Security Researcher&#x2F;Engineer\n\n- Product Manager [USA]\n\n- Fraud Detection Specialist\n\n- Partner Manager\n\nIf you are interested, please email us @ career@threatmark.com with subject \"HN Who's Hiring\"\n\nIf you don't find the right role here or at  https:&#x2F;&#x2F;www.threatmark.com&#x2F;careers&#x2F; , write us anyway if you believe you can be good fit :)\n\nKrystof Hilar, Co-Founder & CTO"
+  },
+  {
+    "id": "50353340",
+    "first_line": "ControlPlane | OpenBao Consultant, Developer | Remote (UK or EU) | Full-Time | \u00a3100k-110k",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "ControlPlane | OpenBao Consultant, Developer | Remote (UK or EU) | Full-Time | \u00a3100k-110k\n\nControlPlane is looking to grow our OpenBao group with consultant and Go developer positions!\n\nOpenBao is a fork of HashiCorp Vault under the Linux Foundation's OpenSSF, the sister project of OpenTofu under the CNCF.\n\nControlPlane was built as the open source, cloud native security consultancy and later expanded into open source maintenance through Flux CD and now OpenBao in 2026.\n\nCome work with me!\n\nMore info and apply here:  https:&#x2F;&#x2F;job-boards.eu.greenhouse.io&#x2F;controlplane&#x2F;jobs&#x2F;5012527101  +  https:&#x2F;&#x2F;job-boards.eu.greenhouse.io&#x2F;controlplane&#x2F;jobs&#x2F;5026034101"
+  },
+  {
+    "id": "50352957",
+    "first_line": "SEEKING FREELANCER | Devops Engineer | Remote - UK or EU",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "SEEKING FREELANCER | Devops Engineer | Remote - UK or EU\n\ngetregistered is a better way to do event registration.\n\nWe're looking for an experienced devops freelancer to help manage and enhance our GCP + Terraform + GitLab based stack in our SOC2 &#x2F; PCI environment. Candidates must be willing to undergo a background check.\n\nPlease email hn@getregistered.com with LinkedIn &#x2F; CV &#x2F; Samples of work."
+  },
+  {
+    "id": "50352541",
+    "first_line": "RedSeal | Sales Engineer | REMOTE | Full-time |  https:&#x2F;&#x2F;www.redseal.net",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "RedSeal | Sales Engineer | REMOTE | Full-time |  https:&#x2F;&#x2F;www.redseal.net \n\nRedSeal is an exposure management platform. We integrate agentlessly with 2,000+ security and infrastructure systems and devices to model the full hybrid environment (on-prem, cloud, OT, IoT) and show which attack paths and vulnerabilities actually matter. Used by hundreds of Fortune 1000 companies and 75+ U.S. government agencies, including every branch of the U.S. military.\n\nLooking for 4+ years of security presales or consulting, plus deep networking: L2-L4, routing, and multi-vendor firewall&#x2F;load balancer config. Comfortable with REST APIs and scripting. Bonus: BGP&#x2F;MPLS&#x2F;SD-WAN, cloud networking, OT&#x2F;ICS, CCIE&#x2F;CCNP&#x2F;CISSP.\n\nApply:  https:&#x2F;&#x2F;redseal.applytojob.com&#x2F;apply&#x2F;GOBu1zg3ZL&#x2F;Sales-Engineer?referrer=20261102192651LA30CQGIIEWOYH7X"
+  },
+  {
+    "id": "50351981",
+    "first_line": "Antithesis | Washington, DC, London | Remote or In Office (US, UK) | Design Engineer",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Antithesis | Washington, DC, London | Remote or In Office (US, UK) | Design Engineer\n\nWe create an expert system that verifies software and becomes an essential part of agentic workflows.  https:&#x2F;&#x2F;antithesis.com \n\nI\u2019m Vlad, Director of Product Design, engineer, and manager. I\u2019m looking for a design engineer to help build our design system  https:&#x2F;&#x2F;anta.design , improve the UI of our apps, and improve AI\u2019s ability to generate high-quality interfaces.\n\nSend me a link to your website (it doesn\u2019t have to be perfect; I just want to see what you\u2019ve worked on). vlad.korobov@antithesis.com\n\nThere are other open roles, including SF:\n https:&#x2F;&#x2F;antithesis.com&#x2F;company&#x2F;careers&#x2F;#open-roles"
+  },
+  {
+    "id": "50350077",
+    "first_line": "PlantingSpace | Full-time | Remote (EU time zone) + Quarterly Meet-ups |  https:&#x2F;&#x2F;planting.space",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "PlantingSpace | Full-time | Remote (EU time zone) + Quarterly Meet-ups |  https:&#x2F;&#x2F;planting.space \n\nWe're building a system that represents domain knowledge as modular probabilistic models \u2014 making analysis rigorous and transparent. Users can connect these models flexibly into larger structures. The system enforces consistency across them, and propagates uncertainty through each step. Our first applications are in finance and scientific research, with use cases ranging from equity valuation and distress monitoring, to particle physics.\n\nWe're hiring for the following openings:\n\n* Technical Project Manager\n\n* Backend Software Engineer\n\n* Analytic Learning Algorithm Researcher\n\n* Product Managers and Business Development\n\n* Domain Experts - Valuation, Quantitative Default-Probability, or Interest Rate Prediction Models: to collaborate on use cases, from opportunity validation through production\n\nFind out more, and apply at:  https:&#x2F;&#x2F;planting.space&#x2F;joinus&#x2F;"
+  },
+  {
+    "id": "50349800",
+    "first_line": "Location: Dorset, UK",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Location: Dorset, UK\n\nRemote: Yes (UK, US and EU time zones)\n\nWilling to relocate: No\n\nTechnologies: Ruby on Rails, Python (FastAPI), TypeScript&#x2F;Node, Go, PostgreSQL, AWS, Hotwire\n\nR\u00e9sum\u00e9&#x2F;CV:  https:&#x2F;&#x2F;wagnermatos.co.uk \n\nEmail: wm@wagnermatos.co.uk\n\nSenior engineer, 15 years. I build complete products on a fixed scope and fixed price: one senior engineer accountable end to end, AI-accelerated. Recent work includes a clinical alerting platform used by NHS trusts, an edge-to-cloud analytics platform for Johnson & Johnson Medical, and the cloud platform behind a fielded detection-hardware fleet. Also open to contract engagements (Rails). Case studies and client testimonials on the site."
+  },
+  {
+    "id": "50349755",
+    "first_line": "OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE |  https:&#x2F;&#x2F;www.openrent.co.uk",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE |  https:&#x2F;&#x2F;www.openrent.co.uk \n\nWhat sucked the last time you rented a house or flat? Come and fix it.\nOpenRent is force for good in an industry tarnished by rip-off agencies and one of the biggest UK websites by traffic. Enabled by an unrelenting focus on technology, we let more properties than any agency in the UK. In the last 12m we let over \u00a350 billion worth of property, to over 8 million registered users, without ever charging any admin fees.\n\nYou'll be working on solving every aspect of the rental journey, from models to predict the right price of a property, to building the future of property management, all to help tenants find their dream home, and landlords their ideal tenant.\n\nWe're PE backed, profitable, and have plenty of ambition to maintain our fast growth in this absolutely massive market.\n\nRoles currently available:\n\n- Senior Full-Stack Engineer | 110k+ (based on experience) + quarterly bonus\n\nAll roles visible here:  https:&#x2F;&#x2F;www.openrent.co.uk&#x2F;jobs"
+  },
+  {
+    "id": "50349615",
+    "first_line": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits\n\nWe're building a marketplace where local ISPs connect schools and health centers to the internet, prove it via telemetry, and get access to discounted backhaul, IP transit and compute from large infracos.\n\nCurrently in pilots in Mexico, Kenya, South Africa, Malawi.\n\nLooking for 1 dev to join a small tech team (3 people) working on this protocol and marketplace, which sits on top of a larger tech team of 30 people at UNICEF Digital Inclusion. Not your typical UN job or culture.\n\n https:&#x2F;&#x2F;jobs.unicef.org&#x2F;en-us&#x2F;job&#x2F;596538&#x2F;consultancy-connectivity-credits-backend-software-engineering-consultantdigital-impact-divisiongeneva-ch6-months-remote \n\nThe rest of the team are in Barcelona&#x2F;Geneva, but this role is remote. 6 month contract to start, with the aim to continue long term."
+  },
+  {
+    "id": "50349129",
+    "first_line": "Opsfleet | AI Engineer (Agentic &#x2F; GenAI) | REMOTE (EEA) | Full-time",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Opsfleet | AI Engineer (Agentic &#x2F; GenAI) | REMOTE (EEA) | Full-time\n\nFully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google Cloud & Snowflake Partner) with a growing GenAI practice and several active client projects.\n\nYou'll build production LLM agents for clients: multi-agent systems, tool use and RAG, in Python, on AWS Bedrock and GCP Vertex AI. Direct client contact.\n\nWe're looking for a hands-on engineer (not a research or prompt-only role) who has built and shipped LLM agents to production, with frameworks like Strands Agents, LangChain, Agno, Deep Agents, Google ADK or Claude Agent SDK.\n\nJust as important: we hire good people. Communicative, collaborative, eager to learn and happy to take ownership. That's what makes people succeed here, with clients and with the team.\n\nProcess: intro call -> take-home assignment -> technical interview -> offer.\n\nApply:  https:&#x2F;&#x2F;www.linkedin.com&#x2F;jobs&#x2F;view&#x2F;4478769287&#x2F;  or hiring@opsfleet.com, please mention HN"
+  },
+  {
+    "id": "50346665",
+    "first_line": "Telescope Partners | Software Engineer & Data Scientist | Remote - AMERICAS ONLY | Full-time",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Telescope Partners | Software Engineer & Data Scientist | Remote - AMERICAS ONLY | Full-time\n\nTelescope is an early stage growth VC firm with a focus on enterprise software companies. We're a small, efficient team based in SF. We're active investors, working closely with entrepreneurs to help their companies grow. Our tech team is oriented at improving investment decision-making using data, building valuable tools for portcos, and automating investor tasks using agents.\n\nIf you're interested in PE, agents, and data science, then this might be a good role for you!\n\nWe\u2019re looking for someone with 3-10 years of experience.\n\nTo apply email mike at telescopepartners.com"
+  },
+  {
+    "id": "50345770",
+    "first_line": "Sendery ( https:&#x2F;&#x2F;sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US&#x2F;Canada remote available) | Contract",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Sendery ( https:&#x2F;&#x2F;sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US&#x2F;Canada remote available) | Contract\n\nSendery is a transactional email platform built for global teams. We provide developers, designers, and operations with the tools they need to manage their product emails without development overhead.\n\nWe're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a startup environment in the past. Positive experience with AI coding tools is a plus.\n\nApplicants who take the time to use the platform and test it out and give their thoughts, will be given priority. We are only hiring applicants in the US, Canada, and Japan at the moment.\n\nTo apply, please contact jobs@sendery.co (we don't respond to other email addresses for job postings) with your resume and github."
+  },
+  {
+    "id": "50344773",
+    "first_line": "yeet | Chicago, IL &#x2F; Remote | Full-Time",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "yeet | Chicago, IL &#x2F; Remote | Full-Time\n\nBuilding a dynamic runtime on top of the Linux BPF sub-system. Looking for extremely talented &#x2F; passionate product managers with a deep interest in Linux internals, Distributed Systems, Dev Tools, Great Developer Experiences and Systems programming.\n\nFeel free to tell us all about your favorite GNU core utilities &#x2F; Linux system calls &#x2F; kernel sub-systems at: work [at] yeet.cx\n\nYou can visit us at  https:&#x2F;&#x2F;yeet.cx&#x2F; \n\nFor more jobs check out  https:&#x2F;&#x2F;yeet.cx&#x2F;careers"
+  },
+  {
+    "id": "50344555",
+    "first_line": "Location: Huntington Beach, CA, USA",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Location: Huntington Beach, CA, USA\nRemote: Yes\nWilling to relocate: No\nTechnologies: C#&#x2F;.NET, TypeScript, React, PostgreSQL, Linux, AI-assisted development (Claude Code and similar)\nR\u00e9sum\u00e9&#x2F;CV:  https:&#x2F;&#x2F;aiwebcenter.com&#x2F;about&#x2F;resume&#x2F; \nEmail: hello@aiwebcenter.com\n\nFractional CTO and contract work: web apps that do real work (booking, ordering, portals, quoting), modernizing older systems, and shipping faster with AI coding tools without losing quality. Twelve working examples you can click through:  https:&#x2F;&#x2F;aiwebcenter.com&#x2F;work&#x2F;examples&#x2F;"
+  },
+  {
+    "id": "50344410",
+    "first_line": "Vivral (Nair Engineering) | ML, Systems (GPU), Hardware, and Embedded Engineers | Gainesville, FL (UF students) | Part-time | Equity",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Vivral (Nair Engineering) | ML, Systems (GPU), Hardware, and Embedded Engineers | Gainesville, FL (UF students) | Part-time | Equity\n\nVivral is an AI health assistant that helps people understand their health. We run frontier-grade medical AI on ordinary computers instead of the cloud, so health support can reach remote, underserved communities. Already tested by researchers at UF, Michigan, and Princeton.\n\nWe're hiring part-time student engineers (sophomores through PhD): Machine Learning (PyTorch, LLMs), Systems (CUDA&#x2F;Triton, making large models run fast on everyday hardware), Hardware (FPGA, digital design), and Embedded (C&#x2F;C++ firmware). Roles are built around class schedules and come with equity that vests over time.\n\nApply (10 minutes):  https:&#x2F;&#x2F;forms.gle&#x2F;PrewX9oGEj7fCMR46 \nMore: nairengineering.com"
+  },
+  {
+    "id": "50343555",
+    "first_line": "Virtusan | Switzerland, EU (Remote) | Full-time",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Virtusan | Switzerland, EU (Remote) | Full-time\n\nVirtusan is a Swiss based health coaching platform for sleep, stress and recovery that works with any wearable, including our own smart ring. We're hiring our first AI Tech Lead to build the intelligence behind our coach: turning biometric and behavioural signals into personalised programmes that help people sleep better and stress less. You\u2019ll be the technical authority for AI across engineering; you make the calls on architecture and approach, set the standards others build to and stay hand-on in the code.\n\nTo apply:  https:&#x2F;&#x2F;join.com&#x2F;companies&#x2F;virtusan&#x2F;16904650-ai-tech-lead-remote-based-in-europe"
+  },
+  {
+    "id": "50343048",
+    "first_line": "Rootly |  https:&#x2F;&#x2F;rootly.com&#x2F;  | engineering, GTM, product, sales | SF Bay, Toronto, APAC, Remote",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Rootly |  https:&#x2F;&#x2F;rootly.com&#x2F;  | engineering, GTM, product, sales | SF Bay, Toronto, APAC, Remote\nOn-call, incident response, and AI SRE. Trusted by leading companies like NVIDIA, Dropbox, Canva, Figma, and more.\n\nHiring across engineering, product, GTM, and sales  https:&#x2F;&#x2F;rootly.com&#x2F;careers"
+  },
+  {
+    "id": "50342723",
+    "first_line": "Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity\n\nHey folks, Fly.io is a developer-focused public cloud. We are currently hiring for three roles:\n\n* Networking Engineer: Proxy and Corrosion -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;networking-engineer&#x2F; \n\n* Infrastructure Operations Engineer -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;infra-engineer&#x2F; \n\n* Fullstack Engineer -  https:&#x2F;&#x2F;fly.io&#x2F;jobs&#x2F;fullstack-engineer&#x2F; \n\nHere's how we hire:  https:&#x2F;&#x2F;docs.fly.io&#x2F;hiring"
+  },
+  {
+    "id": "50341745",
+    "first_line": "DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, except where specific locations are noted.",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, except where specific locations are noted.\n\nSenior Web Security Engineer, Browser Platform -\n https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;a447e823-fd8f-438f-909 ...\n\nSenior Backend Engineer -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;53022b02-da3d-4fda-8273-c897d27ed50d?utm_source=1DKZJgG9d9 \n\nStaff Data Scientist -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;9c381171-f346-4d7a-876a-509fe046760f?utm_source=1DKZJgG9d9 \n\nSenior Data Scientist -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;a447e823-fd8f-438f-909e-db1f6ced8c97?utm_source=1DKZJgG9d9 \n\nDirector, Paid Marketing (Subscriptions) - (Remote within USA) -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;f8570953-8ea3-4955-bfbf-dd67a56df5f5?utm_source=1DKZJgG9d9 \n\nSenior Product Partnerships Manager (Remote within USA or Canada) -   https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;dc1027ae-8f6a-44eb-b116-f945d2f95fad?utm_source=1DKZJgG9d9 \n\nSenior C++ Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;af93b075-d60a-4686-abeb-5949206d2f53?utm_source=1DKZJgG9d9 \n\nSenior Privacy Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;80797cf4-64b2-4e94-9d87-6f2ecc45c862?utm_source=1DKZJgG9d9 \n\nSenior Web Compatibility Engineer -  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;duck-duck-go&#x2F;d02d7598-141b-4a84-bdf6-46677da89b08?utm_source=1DKZJgG9d9 \n\nand MORE:  https:&#x2F;&#x2F;duckduckgo.com&#x2F;hiring"
+  },
+  {
+    "id": "50340434",
+    "first_line": "Voluntas | Remote | Full Time | Software Engineer",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Voluntas | Remote | Full Time | Software Engineer\n\nVoluntas is a trading firm written 100% in Rust. We run systematic strategies, currently specializing in prediction markets, looking to expand our systems more broadly.\n\nWe're looking for someone passionate about data collection, clean abstractions, and processing trillions of rows of data. We care about the quality of the code we write, and we prioritize time for our engineers to properly build their systems, instead of pressuring them to churn out AI generated code.\n\nIf you're interested, send an email to jobs@voluntas.io with a little bit about yourself. We'll respond with a link to our engineering challenge (in Rust)."
+  },
+  {
+    "id": "50339895",
+    "first_line": "Cologne, Germany | UMH | Product Engineer | Full-time | 70k - 100k EUR | ONSITE (part remote)",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Cologne, Germany | UMH | Product Engineer | Full-time | 70k - 100k EUR | ONSITE (part remote)\n\nHi, Alex and Jeremy here from UMH.\n\n8 years ago, Jeremy was absolutely frustrated with the status quo of data infrastructure in manufacturing. Companies paid millions per year for \"shitty 90s software\" and are still doing that today, when there is much better software out there for open-source. So we decided that we can do this better, first founded a System Integrator, realized most of the tasks in setting up and maintaining a data infrastructure can be standardized, and decided to found the currently VC-backed UMH, which is built on open source software and is open source itself.\n\nWhat we're actually building: We build and scale a real-time data platform that runs hundreds of Benthos pipelines inside a single Docker container (UMH Core), processing millions of industrial messages that control actual production processes.\n\nPlus a local-first user interface (Management Console) where both non-technical factory workers and power-users&#x2F;developers can work together. And yes, we care about UI in enterprise&#x2F;industrial software.\n\n https:&#x2F;&#x2F;www.umh.app&#x2F;careers&#x2F;product-engineer-f-m-d-70-100k-eur-cologne"
+  },
+  {
+    "id": "50339750",
+    "first_line": "Stream | Multiple Positions | Amsterdam (NL), Skopje (North Macedonia) | Boulder, CO (US) | Toronto (Canada)) | Remote possible | Full Time | Visa Sponsorship |  https:&#x2F;&#x2F;getstream.io",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Stream | Multiple Positions | Amsterdam (NL), Skopje (North Macedonia) | Boulder, CO (US) | Toronto (Canada)) | Remote possible | Full Time | Visa Sponsorship |  https:&#x2F;&#x2F;getstream.io \n\nStream powers Chat, Video, AI Moderation, and Activity Feeds for billions of global end users across thousands of different apps.\n\nWe're constantly hiring backend engineers, but I wanted to take this opportunity to tout my own hire because I'm hoping you'll come work with me... I'm pavlov on HN, been here for nearly two decades, and working in realtime media for a good while longer. Now I run the Video team at Stream and I'm looking for a Staff Engineer. You'd report to me with a direct line to our CTO. Check out the details:\n\n https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;stream&#x2F;82b37457-3d54-4f7a-8a0e-ae52c0b67362?utm_source=5rrpvObp3r \n\nYou'd own the media plane of Stream Video. It's a modern stack: SFU in Go, cascading to handle very large audiences, ingest and recording fleets, global multi-cloud edge. Video is fundamentally different from request-based services, which means this is not just a seat in Stream's shared infra team, but a genuine Staff role with its own roadmap defined by you. You can email me directly at pauli.ojala@getstream.io, happy to connect and tell you more.\n\nFull-time role, hybrid with 3 days a week in our Amsterdam office, or remote from anywhere in the EU. Visa sponsorship for the Netherlands.\n\nAlso hiring:\nStaff Software Engineer, Infrastructure (Amsterdam),\nStaff Software Engineer, Backend (Amsterdam),\nSenior Fullstack Engineer, Moderation (Toronto).\n\nSee all roles:  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;stream?utm_source=5rrpvObp3r"
+  },
+  {
+    "id": "50339735",
+    "first_line": "Namespace | San Francisco, CA &#x2F; New York, NY &#x2F; Zurich, Switzerland &#x2F; Remote | Full-time | REMOTE or HYBRID |  https:&#x2F;&#x2F;namespace.so",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Namespace | San Francisco, CA &#x2F; New York, NY &#x2F; Zurich, Switzerland &#x2F; Remote | Full-time | REMOTE or HYBRID |  https:&#x2F;&#x2F;namespace.so \n\nNamespace is a vertically integrated infrastructure stack for software development. We build everything ourselves, from the server racks to the hypervisor and scheduler, and we run it globally.\n\nTeams at SpaceXAI, Ramp, Sierra, Fal, Vanta, Framer, ElevenLabs, and many others build their software on Namespace today.\nOpen roles (all full-time, global, remote & hybrid):\n\nCustomer-Facing Software Engineer\n\nProduct Engineer\n\nInfrastructure Software Engineer\n\nSecurity Engineer\n\nDevOps Engineer\n\nEngineering Lead\n\n Details and applications:   https:&#x2F;&#x2F;namespace.so&#x2F;careers"
+  },
+  {
+    "id": "50339514",
+    "first_line": "Mastra | Founding Sales (Founding AE) | US Remote | Full-time",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Mastra | Founding Sales (Founding AE) | US Remote | Full-time\n\nMastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, evals, tracing). From the team behind Gatsby, YC-backed,  https:&#x2F;&#x2F;github.com&#x2F;mastra-ai&#x2F;mastra \n\nWhy: Four months ago Mastra was a very popular open-source agent framework with very little monetization. Then we launched our platform, and now we're closing a couple of deals a week. Pipeline is growing faster than one person can work it, so this is our second dedicated sales hire. You start day 1 with a warm pipe: most leads are already using the open-source framework.\n\nWhat you'd sell: Platform (Studio, Server, infra to run&#x2F;debug&#x2F;observe agents in production, hosted or self-hosted for regulated orgs), Agent Builder (agents without code), and Concierge (embedded Mastra engineers working alongside customer teams). Full-cycle, mid-market: Series A\u2013C, often with regulatory or infra constraints, sales cycles of a few weeks, talking to eng leaders.\n\nYou have: Closed full-cycle deals in dev tools, OSS, infra, or AI. Enough technical depth to come across as a smart PM with engineers: understand their use cases and scope a solution. Founder or founder mentality. Comfort with a product that ships something new every week.\n\nApply: {  https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;Mastra&#x2F;d5fe8d36-843a-4f9b-9d65-779e3b25174d  } We get back to everyone."
+  },
+  {
+    "id": "50338732",
+    "first_line": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | \u20ac5,000&#x2F;month (full-time) |  https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops",
+    "is_applied": false,
+    "geo_blocked": false,
+    "matched_geo": null,
+    "senior_only": false,
+    "has_tech": true,
+    "text": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | \u20ac5,000&#x2F;month (full-time) |  https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops \n\nHi HN, I'm Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we're a self-funded, profitable team of four building privacy-first analytics.\n\nPrivacy is why we run our own bare-metal servers instead of the cloud. We're preparing for a LOT more traffic, and you'll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer.\n\nStack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool.\n\nYou can apply from your terminal:\n\n    curl https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops.md\n  \n[1]  https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277"
+  }
+]
