@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Saim Saeed
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Saim Saeed, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +13,69 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Saim Saeed
+- **Location:** Lahore, Pakistan (open to remote, hybrid, or on-site; willing to relocate within Pakistan and abroad if required)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | English | Professional working proficiency |
+  | Urdu | Native |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Employed full-time as Full-stack Web Developer at ZensBot Ltd (Mar 2026 - Present); open to remote, hybrid, or on-site roles
+- **LinkedIn headline:** "Full-Stack Software Developer | TypeScript, React, Next.js, Python, FastAPI"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BS in Computer Science** (2022-2026) - University of Education, Lahore
+  - CGPA: 3.25 / 4.0
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Full-stack Web Developer** (Mar 2026 - Present) - **ZensBot Ltd** (Remote)
+  - Builds ZensZoom, a multi-tenant live-classroom video platform, in a TypeScript monorepo (Next.js App Router frontend on Vercel, async FastAPI backend with SQLAlchemy 2 and Alembic on AWS EC2)
+  - Implemented real-time media over a LiveKit SFU with a dedicated WebSocket service, Egress-based session recording, and HLS playback
+  - Integrated Stripe and PayFast billing plus S3 and Bunny CDN storage; owns deploys across staging and production with Docker Compose, Caddy, and Terraform
+- **Software Engineer** (May 2025 - Present) - **ShopOnlineNewYork** (Remote)
+  - Builds product detail page features end to end, including a color/variant selector for orders
+  - Refactored Redux state management on data-heavy dashboards to eliminate unnecessary re-renders
+- **Software Developer** (Mar 2025 - Mar 2026) - **CNS** (Remote)
+  - Deployed full-stack applications with automated CI/CD pipelines; implemented JWT authentication and role-based access control
+  - Ran code reviews and mentored two junior developers
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** TypeScript / JavaScript (ES6+), Python, React 19, Next.js (App Router), FastAPI, Node.js, PostgreSQL
+- **Secondary:** Redux, Tailwind CSS, SQLAlchemy 2 (async), Express.js, MongoDB, Redis, REST APIs, WebSockets, SQL, C++
+- **Domain:** Real-time video infrastructure (WebRTC, LiveKit SFU/Egress, HLS), multi-tenant SaaS, e-commerce, JWT auth and RBAC, billing integrations (Stripe, PayFast)
+- **Software:** AWS (EC2, S3), Docker, Docker Compose, Terraform, Caddy, Vercel, CI/CD, Git/GitHub, asyncpg, Alembic, arq, Resend, Bunny CDN; AI-assisted development with Claude Code
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **HEC Pakistan NSCT Computer Science Proficiency Test** - 86.5th percentile
+- **Python Programming** - Coursera - completed 2026
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- HEC Pakistan NSCT Computer Science Proficiency Test - 86.5th percentile
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- No formal assessment (PI/DISC/MBTI) on file yet; working notes derived from work history. See 02-behavioral-profile.md -->
+- **Owner/Builder** - traces failures to root cause and ships fixes end to end; owns production deployments
+- **Rigor** - validates on out-of-sample evidence (rejected a trading strategy family after 1,494 configurations); performance-tunes data-heavy UI
+- **Strengths:** root-cause debugging, end-to-end delivery, remote collaboration
+- **Growth areas:** early-career depth (19 months); grows fastest with strong code review
+- **Thrives in:** remote-first, async teams with clear ownership
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building production systems end to end, from database schema and API to UI
+- Real-time and AI-driven product engineering
+- Performance and reliability work on data-heavy applications
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Remote-first SaaS and product companies: AI-enabled products, e-commerce, fintech, developer tools
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles that require existing work authorization with no visa/relocation support
+- Internship-level positions (19 months of professional experience)
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
