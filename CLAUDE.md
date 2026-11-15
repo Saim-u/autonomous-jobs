@@ -80,6 +80,7 @@ None.
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
 - `cover_letters/` - LaTeX cover letters (custom cover.cls template)
+- `outreach/` - Reddit hiring/client lead monitor, cold outreach drafts, lead tracker (see `outreach/README.md`)
 - `.claude/skills/` - AI skill definitions for the application workflow
 - `.agents/skills/` - Job search CLI tools
 
