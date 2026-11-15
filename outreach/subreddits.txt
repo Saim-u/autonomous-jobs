@@ -1,0 +1,28 @@
+# Reddit lead sources. Format: <subreddit> [new|search]
+# new    = latest posts from r/<sub>/new
+# search = keyword search inside the subreddit (uses rotating queries)
+#
+# Hiring-first boards (low volume, high signal)
+forhire new
+hiring new
+jobbit new
+remotejobs new
+techjobs new
+freelance_forhire new
+
+# Buyer / project boards (people posting "need someone to build X")
+cofounder new
+SaaS search
+startups search
+Entrepreneur search
+SideProject search
+webdev search
+
+# AI / ML boards (hiring and "build me an agent" posts)
+MachineLearning search
+LocalLLaMA search
+LLMDevs search
+AI_Agents search
+LangChain search
+mcp search
+artificial search
