@@ -1,0 +1,69 @@
+- generic [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e6]:
+    - generic:
+      - banner [ref=e7]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - tabpanel:
+                              - dialog "Log in to use old Reddit" [ref=e35]:
+                                - alert [ref=e37]
+                                - generic [ref=e39]:
+                                  - heading "Log in to use old Reddit" [level=1] [ref=e40]
+                                  - paragraph [ref=e41]:
+                                    - text: To keep Reddit safe, accounts are required to access old Reddit. Log in, or continue without an account on
+                                    - link "reddit.com" [active] [ref=e42] [cursor=pointer]:
+                                      - /url: https://www.reddit.com
+                                    - text: .
+                                  - paragraph [ref=e43]:
+                                    - text: By continuing, you agree to our
+                                    - link "User Agreement" [ref=e44] [cursor=pointer]:
+                                      - /url: https://www.redditinc.com/policies/user-agreement
+                                    - text: and acknowledge that you understand the
+                                    - link "Privacy Policy" [ref=e45] [cursor=pointer]:
+                                      - /url: https://www.redditinc.com/policies/privacy-policy
+                                    - text: .
+                                  - generic [ref=e46]:
+                                    - iframe [ref=e54]:
+                                      - button "Continue with Google. Opens in new tab" [ref=f5e3] [cursor=pointer]:
+                                        - generic [ref=f5e5]: Continue with Google
+                                    - link "Email me a one-time link" [ref=e56] [cursor=pointer]:
+                                      - /url: https://www.reddit.com/login/
+                                    - generic [ref=e62]:
+                                      - separator [ref=e63]
+                                      - generic [ref=e64]: OR
+                                      - separator [ref=e65]
+                                  - group [ref=e66]:
+                                    - generic [ref=e71]:
+                                      - generic:
+                                        - generic: Email or username
+                                        - text: "*"
+                                      - textbox "Email or username" [ref=e72]
+                                  - group [ref=e77]:
+                                    - generic [ref=e81]:
+                                      - generic [ref=e82]:
+                                        - generic:
+                                          - generic: Password
+                                          - text: "*"
+                                        - textbox "Password" [ref=e83]
+                                      - button "Show password" [ref=e87] [cursor=pointer]
+                                  - link "Forgot password?" [ref=e101] [cursor=pointer]:
+                                    - /url: https://www.reddit.com/password/
+                                  - generic [ref=e103]:
+                                    - text: New to Reddit?
+                                    - link "Sign Up" [ref=e105] [cursor=pointer]:
+                                      - /url: https://www.reddit.com/register/
+                                - generic [ref=e110]:
+                                  - button "Log In" [disabled]
+                            - generic: back
+                            - generic: back
